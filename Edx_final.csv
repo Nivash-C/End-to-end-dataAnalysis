@@ -1,0 +1,1001 @@
+Course_Name,Rating,No_of_Ratings,No_of_Enrollment,Duration,Institution,Subject,Level,Language,Price
+ How to Learn Online,4.2,66,295854,2,edX,Education & Teacher Training,Introductory,English,5796
+ The Science of Happiness,4.6,38,586360,11,BerkeleyX,Social Sciences,Introductory,English,14170
+ Remote Work Revolution for Everyone,4.6,96,119751,3,HarvardX,Business & Management,Introductory,English,12493
+CS50's Introduction to Computer Science,,,6069194,12,HarvardX,Computer Science,Introductory,English,
+ Data Visualization and Building Dashboards with Excel and Cognos,4.4,94,50423,4,IBM,Data Analysis & Statistics,Introductory,English,8301
+" Six Sigma Part 2: Analyze, Improve, Control",4.7,45,86213,8,TUMx,Business & Management,Introductory,English,15876
+ CS50's Introduction to Programming with Python,,,1086875,10,HarvardX,Computer Science,Introductory,English,
+ Analyzing Data with Excel,4.4,450,252547,5,IBM,Data Analysis & Statistics,Introductory,English,8301
+ The Science of Generosity: Do Good…Feel Good,,,,4,PennX,Philanthropy,Introductory,English,4108
+ Entrepreneurial Operations: Launching a Startup,4.7,17,49083,4,BabsonX,Business & Management,Intermediate,English,15847
+ Marketing Management,4.3,47,139290,9,IIMBx,Business & Management,Intermediate,English,12577
+ The Foundations of Happiness at Work,4.5,25,102178,4,BerkeleyX,Business & Management,Introductory,English,16685
+ Introduction to Web Accessibility,4.4,70,74588,4,W3Cx,Computer Science,Introductory,English,8301
+ Coaching Skills for Learner-Centred Conversations,4.6,42,24350,4,ImperialX,Education & Teacher Training,Introductory,English,4956
+ Creating Innovative Business Models,4.8,14,28564,4,UMD,Business & Management,Introductory,English,15847
+ Greatest Unsolved Mysteries of the Universe,4.9,28,114211,9,ANUx,Physics,Intermediate,English,4947
+ Interdisciplinary Teaching with Museum Objects,4.1,11,,14,SmithsonianX,Education & Teacher Training,Introductory,English,5785
+ Intercultural Communication at Work – Land the job and do it well,,,13753,6,NUS,Communication,Intermediate,English,4956
+ Data Science and Agile Systems for Product Management,4.7,7,16208,4,UMD,Business & Management,Intermediate,English,20878
+ Climate Change: Financial Risks and Opportunities,4.1,22,,4,ImperialBusinessX,Economics & Finance,Intermediate,English,6624
+ CS50's Introduction to Artificial Intelligence with Python,,,1132411,7,HarvardX,Computer Science,Introductory,English,
+ Exercising Leadership: Foundational Principles,4.6,886,622786,4,HarvardX,Business & Management,Introductory,English,17556
+ Storytelling in the Workplace,4.4,65,34269,3,RITx,Communication,Introductory,English,16685
+ CS50's Web Programming with Python and JavaScript,,,1482100,12,HarvardX,Computer Science,Intermediate,English,
+ Google Cloud Computing Foundations: Cloud Computing Fundamentals,4.5,31,69235,1,GoogleCloud,Computer Science,Introductory,English,12493
+ Introduction to Data Science with Python,4.3,109,166113,8,HarvardX,Data Analysis & Statistics,Intermediate,English,25116
+ CS50's Introduction to Cybersecurity,,,198078,5,HarvardX,Computer Science,Introductory,English,
+ Python Basics for Data Science,4.4,801,799472,3,IBM,Data Analysis & Statistics,Intermediate,English,8301
+ Building Personal Resilience: Managing Anxiety and Mental Health,4.6,127,100147,6,HarvardX,Social Sciences,Introductory,English,18362
+ Data Science: Machine Learning,4.3,85,587853,8,HarvardX,Data Analysis & Statistics,Introductory,English,12516
+ Rhetoric: The Art of Persuasive Writing and Public Speaking,4.6,302,763568,8,HarvardX,Humanities,Introductory,English,17524
+ IELTS Academic Test Preparation,4.8,61,1648661,8,UQx,Communication,Introductory,English,18396
+ Becoming an Entrepreneur,4.2,60,273512,6,MITx,Business & Management,Introductory,English,5785
+ Excel for Beginners,4.5,564,161788,4,DavidsonX,Data Analysis & Statistics,Introductory,English,20878
+ Human Anatomy: Musculoskeletal Cases,4.8,158,285338,7,HarvardX,Medicine,Intermediate,English,17524
+ Data Science: R Basics,4.4,176,889850,8,HarvardX,Data Analysis & Statistics,Introductory,English,18396
+ Business Writing Techniques,4.6,485,43137,4,DoaneX,Communication,Introductory,English,12493
+ CS50's Introduction to Databases with SQL,,,67442,7,HarvardX,Computer Science,Introductory,English,
+" Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",4.7,101,607921,5,HarvardX,Biology & Life Sciences,Introductory,English,20878
+ Machine Learning with Python: A Practical Introduction,4.5,402,178346,5,IBM,Data Analysis & Statistics,Introductory,English,8301
+ AI for Everyone: Master the Basics,4.4,292,185899,4,IBM,Computer Science,Introductory,English,8301
+ Inglés para todos: nivel básico,4.7,9,220690,4,URosarioX,Language,Introductory,Spanish,4108
+" Introduction to Web Development with HTML5, CSS3, and JavaScript.",4.4,407,143244,2,IBM,Computer Science,Intermediate,English,4116
+ CS50's Introduction to Programming with Scratch,,,194161,3,HarvardX,Computer Science,Introductory,English,
+ Introduction to Kubernetes,4.4,37,368943,14,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Managing Happiness,4.7,322,150518,6,HarvardX,Social Sciences,Introductory,English,18396
+ Contract Law: From Trust to Promise to Contract,4.8,258,594785,8,HarvardX,Business & Management,Intermediate,English,25070
+ Italian Language and Culture: Beginner (2023-2024),4.7,138,375976,12,WellesleyX,Language,Introductory,Italian,4947
+ Entrepreneurship in Emerging Economies,4.6,204,836833,6,HarvardX,Business & Management,Introductory,English,20878
+ TOEFL iBT Test Preparation: The Insider’s Guide,4.6,141,1538009,6,ETSx,Communication,Introductory,English,5031
+ Data Analytics Basics for Everyone,4.4,226,170856,5,IBM,Data Analysis & Statistics,Introductory,English,8316
+ Basic Spanish 1: Getting Started,4.5,130,607881,7,UPValenciaX,Communication,Introductory,English,2432
+ CS50's Computer Science for Business Professionals,,,214717,6,HarvardX,Computer Science,Introductory,English,
+ Foundations of Modern Finance I,,,106584,12,MITx,Economics & Finance,Advanced,English,46116
+ English Grammar and Style,4.5,21,806424,8,UQx,Humanities,Introductory,English,10816
+ Justice,4.8,156,586508,12,HarvardX,Humanities,Introductory,English,17524
+ Introduction to Cloud Computing,4.6,379,104545,3,IBM,Computer Science,Introductory,English,4108
+ The Architectural Imagination,4.8,108,575334,10,HarvardX,Architecture,Introductory,English,20916
+ Machine Learning and AI with Python,3.7,6,20180,6,HarvardX,Data Analysis & Statistics,Intermediate,English,25070
+ Financial Accounting and Analysis,4.5,170,37229,6,IIMBx,Business & Management,Intermediate,English,4192
+ Introduction to Linux,4.4,175,873187,14,LinuxFoundationX,Computer Science,Introductory,English,17524
+ Introduction to Prompt Engineering,4.5,212,15592,3,IBM,Computer Science,Introductory,English,4108
+ Cybersecurity Basics,4.3,220,96287,4,IBM,Computer Science,Introductory,English,12493
+ Statistics and R,4.1,62,467610,4,HarvardX,Data Analysis & Statistics,Intermediate,English,18362
+ Circuits and Electronics 1: Basic Circuit Analysis,4.6,22,139776,5,MITx,Electronics,Introductory,English,15847
+ Calculus Applied!,4.8,29,156634,10,HarvardX,Math,Intermediate,English,
+ Digital Marketing Strategy,4.5,70,117348,8,EdinburghX,Business & Management,Intermediate,English,12493
+ Foundations of Finance,4.5,54,72611,5,UniversityofCambridge,Economics & Finance,Introductory,English,25116
+ Introduction to Data Science,4.5,222,163778,6,IBM,Data Analysis & Statistics,Introductory,English,8301
+ Databases: Relational Databases and SQL,4.4,35,119828,2,StanfordOnline,Computer Science,Introductory,English,5785
+ Statistical Learning with Python,4.6,9,17072,11,StanfordOnline,Data Analysis & Statistics,Introductory,English,15595
+ The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,4.7,53,132922,13,HarvardX,Philosophy & Ethics,Introductory,English,12493
+ Data Science: Visualization,4.4,92,287567,8,HarvardX,Data Analysis & Statistics,Introductory,English,18362
+ Introduction to Probability,4.3,38,188610,10,HarvardX,Data Analysis & Statistics,Intermediate,English,17524
+ Leaders of Learning,4.6,309,367670,10,HarvardX,Communication,Introductory,English,17524
+ Introduction to Biology - The Secret of Life,,,232944,16,MITx,Biology & Life Sciences,Introductory,English,12600
+ Cell Biology: Mitochondria,4.7,161,137202,4,HarvardX,Biology & Life Sciences,Introductory,English,12493
+ Java Programming Fundamentals,4.4,104,40328,5,GalileoX,Engineering,Intermediate,English,3270
+ A Hands-on Introduction to Engineering Simulations,4.8,24,294331,6,CornellX,Engineering,Intermediate,English,16685
+ HTML5 and CSS Fundamentals,4.5,122,414758,6,W3Cx,Computer Science,Introductory,English,20916
+ Upper-Intermediate English: Business and Modern Life,4.6,63,157924,4,UPValenciaX,Language,Intermediate,English,3270
+ Technology Entrepreneurship: Lab to Market,4.5,95,144789,5,HarvardX,Business & Management,Introductory,English,12516
+ Critical Thinking & Problem Solving,4.5,134,51591,3,RITx,Communication,Introductory,English,16685
+ Software Engineering Basics for Everyone,4.6,69,28482,6,IBM,Computer Science,Introductory,English,8301
+ Programming for Everybody (Getting Started with Python),4.7,141,581247,7,MichiganX,Computer Science,Introductory,English,4956
+ Communication Skills and Teamwork,4.5,322,31711,3,FullbridgeX,Business & Management,Introductory,English,
+ Introduction to Corporate Finance,4.5,57,180233,4,ColumbiaX,Business & Management,Introductory,English,18865
+ Intro to Stock Trading,3.9,38,31367,3,NYIF,Economics & Finance,Introductory,English,8301
+ Prompt Engineering and Advanced ChatGPT,4.2,142,27916,1,edX,Computer Science,Intermediate,English,3354
+ Inglés básico: conversacional y networking,4.3,48,298425,4,AnahuacX,Business & Management,Introductory,Spanish,3270
+ Introduction to Machine Learning and AI,4.5,144,13839,4,RaspberryPiFoundation,Education & Teacher Training,Introductory,English,4947
+ Using Python for Research,4.1,48,346823,12,HarvardX,Computer Science,Intermediate,English,20916
+ Build Your First Internet of Things (IoT) Application on Arm,4.4,213,13267,7,ArmEducationX,Computer Science,Intermediate,English,8301
+ Excel: Fundamentos y herramientas,4.6,49,438587,8,UPValenciaX,Computer Science,Introductory,Spanish,3270
+ Introduction to SQL,4.5,64,45709,5,IBM,Computer Science,Introductory,English,8316
+ Problem Solving and Critical Thinking Skills,4.5,218,32487,3,FullbridgeX,Business & Management,Introductory,English,
+ Python Programming: Basic Skills,4.4,70,11163,5,Codio,Computer Science,Introductory,English,15847
+ The Psychology of Emotions: An Introduction to Embodied Cognition,4.4,54,42657,5,UniversityofCambridge,Biology & Life Sciences,Intermediate,English,25070
+ Introduction to Project Management,4.4,248,510236,6,AdelaideX,Business & Management,Introductory,English,20878
+ Excel for Everyone: Core Foundations,4.6,43,185043,6,UBCx,Data Analysis & Statistics,Introductory,English,15847
+ Data Science: Inference and Modeling,4.3,39,136813,8,HarvardX,Data Analysis & Statistics,Introductory,English,12493
+ Data Science: Probability,4.3,47,205869,8,HarvardX,Data Analysis & Statistics,Introductory,English,12493
+" PredictionX: Omens, Oracles & Prophecies",4.8,56,175526,1,HarvardX,Social Sciences,Introductory,English,
+ SOLIDWORKS CAD Fundamentals,4.5,73,29342,5,SOLIDWORKS,Design,Introductory,English,8301
+ Introduction to Generative AI,4.4,73,9503,3,IBM,Computer Science,Introductory,English,4108
+ R Programming Basics for Data Science,4.5,262,19379,5,IBM,Data Analysis & Statistics,Introductory,English,8316
+ Introduction to the Internet of Things (IoT),4.4,92,119876,6,CurtinX,Computer Science,Introductory,English,12493
+" Fundamentals of Neuroscience, Part 3: The Brain",4.9,42,128447,8,HarvardX,Biology & Life Sciences,Introductory,English,20878
+ Developing Front End Apps with React,4.5,116,18566,4,IBM,Computer Science,Intermediate,English,2016
+ Food Fermentation: The Science of Cooking with Microbes,4.7,71,66524,14,HarvardX,Biology & Life Sciences,Introductory,English,20878
+ C++ Programming: Basic Skills,4.5,37,21310,5,Codio,Computer Science,Introductory,English,15847
+ Leadership: Creating Public Value,4.6,38,53633,7,HarvardX,Social Sciences,Introductory,English,17524
+ Introduction to Cognitive Psychology and Neuropsychology,4.4,23,15731,5,UniversityofCambridge,Biology & Life Sciences,Introductory,English,25070
+ Graphic Design Essentials,4.1,7,9119,4,LCIEducation,Design,Introductory,English,8301
+ PredictionX: Lost Without Longitude,4.7,34,51423,1,HarvardX,History,Introductory,English,
+ Mental Health and Nutrition,4.7,127,80530,8,UCx,Food & Nutrition,Introductory,English,15876
+ Data Science and Machine Learning Capstone Project,4.4,127,37220,6,IBM,Data Analysis & Statistics,Intermediate,English,12493
+ Marketing digital en redes sociales,4.3,36,46068,3,UPValenciaX,Business & Management,Introductory,Spanish,3773
+ Analyzing Data with R,4.5,167,11085,6,IBM,Data Analysis & Statistics,Introductory,English,8316
+ Early Childhood Development: Global Strategies for Implementation,4.8,155,74466,7,HarvardX,Education & Teacher Training,Introductory,English,12493
+ Principles of Biochemistry,4.6,42,386139,15,HarvardX,Medicine,Intermediate,English,25070
+" Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues",4.7,15,37922,5,GTx,Computer Science,Intermediate,English,15847
+ DevOps Basics for Everyone,4.5,77,15728,3,IBM,Computer Science,Introductory,English,8301
+ SQL for Data Science,4.2,69,119098,4,IBM,Data Analysis & Statistics,Introductory,English,8316
+" Resume, Networking, and Interview Skills",4.4,120,72912,3,FullbridgeX,Business & Management,Introductory,English,
+ Quantum Mechanics for Scientists and Engineers 1,4.5,29,34204,9,StanfordOnline,Engineering,Introductory,English,13331
+" Nutrition, Exercise and Sports",4.5,29,120885,6,WageningenX,Food & Nutrition,Intermediate,English,17556
+ Full Stack Application Development Project,4.3,54,29646,2,IBM,Computer Science,Intermediate,English,8301
+ Beginners Guide to Cybersecurity,4.5,61,17132,4,IBM,Computer Science,Introductory,English,4116
+ Pyramids of Giza: Ancient Egyptian Art and Archaeology,,,23899,8,HarvardX,Art & Culture,Introductory,English,18362
+ Java Programming: Basic Skills,4.6,26,10184,5,Codio,Computer Science,Introductory,English,15847
+ Embedded Systems Essentials with Arm: Getting Started,4.4,68,32170,6,ArmEducationX,Computer Science,Intermediate,English,8301
+ AWS Cloud Practitioner Essentials,4.4,138,48314,4,AWS,Computer Science,Introductory,English,12493
+ Computing in Python I: Fundamentals and Procedural Programming,4.7,64,252525,5,GTx,Computer Science,Introductory,English,15847
+ MATLAB Essentials,4.4,103,26244,4,MathWorks,Engineering,Introductory,English,15847
+ Accounting and Finance,4.5,18,170011,11,IIMBx,Business & Management,Intermediate,English,12600
+ Analyzing Data with Python,4.6,97,157150,5,IBM,Data Analysis & Statistics,Introductory,English,8301
+ Academic English: How to Write an Essay,4.7,6,57714,10,UQx,Communication,Introductory,English,9978
+ Visualizing Data with Python,4.5,107,70270,5,IBM,Data Analysis & Statistics,Intermediate,English,8301
+ Introduction to Family Engagement in Education,4.8,158,173334,6,HarvardX,Education & Teacher Training,Introductory,English,
+ Français élémentaire 1,4.2,17,18394,5,UMontrealX,Language,Introductory,French,9978
+ Hardware and Operating Systems,4.7,82,11058,6,IBM,Computer Science,Introductory,English,4108
+ Steps in Japanese for Beginners1 Part1,4.5,18,125131,5,WasedaX,Language,Introductory,English,4947
+ Liderazgo y comportamiento organizacional,4.6,5,48993,4,TecdeMonterreyX,Business & Management,Introductory,Spanish,15847
+" The Living Amazon: Science, Cultures and Sustainability in Practice",,,5641,8,SDGAcademyX,Environmental Studies,Intermediate,English,
+ C Programming: Getting Started,4.8,17,182339,5,DartmouthX,Computer Science,Introductory,English,8301
+ Introduction to Marketing,4.7,21,239384,6,UBCx,Business & Management,Introductory,English,12577
+ How to Use ChatGPT in Education,4.3,95,11045,1,edX,Computer Science,Intermediate,English,1680
+" Big Data, Hadoop, and Spark Basics",4.5,40,14630,6,IBM,Computer Science,Introductory,English,8316
+ Introduction to Personal Financial Planning,4.4,27,29502,4,IUx,Economics & Finance,Introductory,English,16685
+ Product Management Fundamentals,4.3,50,69413,4,UMD,Business & Management,Introductory,English,20878
+ Ethical Hacking Essentials (EHE),4.6,41,18186,1,EC-Council,Computer Science,Intermediate,English,10816
+ Soft Skills: Develop Interpersonal Skills,4.3,51,6405,1,IBM,Communication,Introductory,English,2436
+ Databases: Advanced Topics in SQL,4.4,7,41677,2,StanfordOnline,Computer Science,Introductory,English,5785
+ Energy and Thermodynamics,4.3,16,25419,10,HarvardX,Chemistry,Introductory,English,20916
+ Pre-University Calculus,4.3,15,146214,8,DelftX,Math,Introductory,English,4192
+ Introduction to Cloud Infrastructure Technologies,4.5,17,130351,14,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Machine Learning at the Edge on Arm: A Practical Introduction,4.6,150,7831,6,ArmEducationX,Computer Science,Intermediate,English,8301
+ CS50's Introduction to Programming with R,,,6482,7,HarvardX,Computer Science,Introductory,English,25116
+ Statistical Learning with R,4.4,41,95380,11,StanfordOnline,Data Analysis & Statistics,Introductory,English,15847
+ Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics,4.2,30,34355,6,GTx,Computer Science,Introductory,English,20878
+ 50-hour English Language Teaching Methodology,4,7,9105,10,TEFLx,Education & Teacher Training,Intermediate,English,25116
+ Nutrition and Health: Micronutrients and Malnutrition,4.8,51,98468,7,WageningenX,Biology & Life Sciences,Intermediate,English,20878
+ Child Protection: Children's Rights in Theory and Practice,4.8,91,33707,16,HarvardX,Social Sciences,Introductory,English,12493
+ Project Management Principles,4.5,53,12945,5,UMD,Business & Management,Introductory,English,9978
+ Visualizing Data with R,4.6,124,8046,4,IBM,Data Analysis & Statistics,Introductory,English,8301
+" U.S. Public Policy: Social, Economic, and Foreign Policies",4.8,67,84361,4,HarvardX,Social Sciences,Introductory,English,12493
+ Genetics: The Fundamentals,,,16680,7,MITx,Biology & Life Sciences,Advanced,English,8316
+ Financial accounting and capital markets,4.7,27,21886,5,UniversityofCambridge,Economics & Finance,Intermediate,English,25070
+ Fat Chance: Probability from the Ground Up,4.6,48,104478,7,HarvardX,Math,Introductory,English,12493
+ AI Applications and Prompt Engineering,4.2,25,9503,1,edX,Computer Science,Introductory,English,8316
+ Introduction to the Internet of Things,4.4,74,17912,6,UPValenciaX,Electronics,Introductory,English,3270
+ Self-Assessment – Developing Your Strengths,4.4,137,27697,3,FullbridgeX,Business & Management,Introductory,English,
+ Fundamentals of TinyML,4.5,55,63172,5,HarvardX,Data Analysis & Statistics,Introductory,English,25070
+ Introduction to Human Resources (HR) leadership and HR management strategies,4.6,114,15857,2,StellenboschX,Business & Management,Intermediate,English,12493
+" Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",4.7,73,137331,10,HarvardX,Medicine,Introductory,English,18362
+ Back-end Application Development with Node.js and Express,4.2,79,37233,3,IBM,Computer Science,Intermediate,English,4108
+ Fundamentals of Psychology,4.6,72,34780,8,DoaneX,Social Sciences,Introductory,English,9978
+ Digital Marketing Strategy,4.5,29,11580,6,IIMBx,Business & Management,Intermediate,English,15876
+ Measuring Sustainable Development,4.3,74,22886,5,SDGAcademyX,Data Analysis & Statistics,Intermediate,English,
+ AWS Cloud Technical Essentials,4.5,37,24364,4,AWS,Computer Science,Introductory,English,15847
+ Business Strategy from Wharton: Competitive Advantage,4.7,121,72406,6,Wharton,Business & Management,Intermediate,English,16685
+ NoSQL Database Basics,4.4,63,8947,5,IBM,Computer Science,Introductory,English,8301
+" Religion, Conflict and Peace",4.8,81,125483,8,HarvardX,Humanities,Introductory,English,12493
+ Medical Terminology,4.5,51,77601,8,DoaneX,Biology & Life Sciences,Introductory,English,9978
+" Algorithms: Design and Analysis, Part 1",4.7,13,78450,6,StanfordOnline,Computer Science,Intermediate,English,15876
+ Electrochemistry,4.4,13,16109,10,HarvardX,Chemistry,Introductory,English,20878
+ Introduction to Microprocessors,4.4,105,7013,5,ArmEducationX,Computer Science,Introductory,English,4108
+ Innovating in Health Care,4.5,55,104313,9,HarvardX,Business & Management,Intermediate,English,20878
+ A Complete Guide to Game Design,4.5,75,7759,4,HP,Computer Science,Introductory,English,420
+ Teamwork & Collaboration,4.5,41,18143,3,RITx,Communication,Introductory,English,16685
+ Data Science: Productivity Tools,4.3,32,103193,8,HarvardX,Data Analysis & Statistics,Introductory,English,12493
+" Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",4.8,42,115547,8,HarvardX,Medicine,Introductory,English,25070
+ High-Dimensional Data Analysis,4.4,11,125111,4,HarvardX,Data Analysis & Statistics,Advanced,English,18362
+ Christianity Through Its Scriptures,4.6,46,162067,4,HarvardX,Humanities,Introductory,English,12516
+ Quantitative and Qualitative Research for Beginners,4.5,51,23594,8,NUS,Social Sciences,Introductory,English,8301
+ Mandarin Chinese Level 1,4.6,14,110461,6,MandarinX,Language,Introductory,English,15847
+ Comunicación y Pronunciación en Inglés,4.7,9,44576,4,AnahuacX,Language,Introductory,Spanish,3270
+ Quantitative Methods for Biology,4.7,15,64746,10,HarvardX,Computer Science,Introductory,English,18396
+ Introducción a la Ingeniería del Software,4.6,13,47231,5,UAMx,Computer Science,Introductory,Spanish,2432
+ Public Speaking,4.5,32,51512,3,RITx,Communication,Introductory,English,16685
+ Masterpieces of World Literature,4.7,44,152374,12,HarvardX,Literature,Introductory,English,25070
+ Introducción a Power BI para los negocios,4.2,39,32016,4,UPValenciaX,Data Analysis & Statistics,Introductory,Spanish,3270
+ HTML5 Apps and Games,4.3,86,98892,4,W3Cx,Computer Science,Advanced,English,16685
+ Data Science: Linear Regression,4.1,23,111330,8,HarvardX,Data Analysis & Statistics,Introductory,English,12516
+ Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,4.7,56,152177,10,HarvardX,Education & Teacher Training,Intermediate,English,
+ Python: aprender a programar,4.2,34,100216,8,UPValenciaX,Computer Science,Introductory,Spanish,3773
+ Arabic for non-Arabic Speakers,4.3,87,39538,5,QUx,Language,Introductory,English,3270
+ Improving Your Business Through a Culture of Health,4.8,16,88224,9,HarvardX,Business & Management,Introductory,English,18396
+ The Craft of Storytelling,4.2,7,13415,4,AlaskaX,Communication,Introductory,English,9978
+ Operations Management,4.4,67,174428,7,IIMBx,Business & Management,Intermediate,English,12577
+ Applied Scrum for Agile Project Management,4.4,139,110981,4,UMD,Engineering,Advanced,English,20878
+ Empathy and Emotional Intelligence at Work,4.5,56,89164,4,BerkeleyX,Business & Management,Introductory,English,16716
+ IoT Sensors and Devices,4.2,18,48389,5,CurtinX,Computer Science,Introductory,English,16685
+ Business Foundations,4.7,24,102246,6,UBCx,Business & Management,Introductory,English,12600
+ Fundamentos de anatomía y técnica quirúrgica básica,4.6,7,48152,4,URosarioX,Medicine,Introductory,Spanish,1593
+ Corporate Finance,4.6,31,92107,5,IIMBx,Business & Management,Intermediate,English,12577
+ Calculus I: From Functions to Differential Equations,4.5,16,10843,6,DelftX,Math,Intermediate,English,12493
+ Data Engineering Basics for Everyone,4.7,23,23449,4,IBM,Data Analysis & Statistics,Introductory,English,8301
+ Psychedelics and the Mind,4.8,56,10223,10,BerkeleyX,Science,Introductory,English,7965
+ Excel for Everyone: Data Analysis Fundamentals,4.6,18,39161,6,UBCx,Data Analysis & Statistics,Intermediate,English,15847
+ Circuits and Electronics 3: Applications,4.5,11,21012,7,MITx,Electronics,Intermediate,English,15847
+ Upper-Intermediate English: Business and Industry,4.5,49,146020,4,UPValenciaX,Language,Intermediate,English,3276
+ Basic Network and Database Security,4.6,26,14402,4,IBM,Computer Science,Introductory,English,12493
+ Learning and memory in the brain: a guide for teachers,4.8,23,11687,5,UniversityofCambridge,Education & Teacher Training,Introductory,English,18396
+ Análisis estadístico con Excel,,,52735,4,GalileoX,Data Analysis & Statistics,Introductory,Spanish,3270
+ Introduction To Music Theory,4.5,37,117508,6,BerkleeX,Humanities,Introductory,English,4947
+ Ciencia de Datos: Fundamentos de R,,,7293,4,HarvardX,Data Analysis & Statistics,Introductory,Spanish,9996
+ Python for Data Science,3.9,24,327985,10,UCSanDiegoX,Data Analysis & Statistics,Advanced,English,29346
+ Improving Global Health: Focusing on Quality and Safety,4.6,94,165505,10,HarvardX,Social Sciences,Intermediate,English,12493
+ Introduction to SQL,4.5,33,23807,4,DavidsonX,Data Analysis & Statistics,Introductory,English,20916
+ Italian Language and Culture: Intermediate (2023-2024),4.6,55,71279,12,WellesleyX,Language,Intermediate,Italian,4947
+ Topics in AP Physics,4.4,17,73860,18,RICEx,Physics,Introductory,English,4108
+ AI Chatbots without Programming,4.3,41,56682,2,IBM,Computer Science,Introductory,English,8301
+ Información financiera y su análisis,4.7,12,30057,4,TecdeMonterreyX,Economics & Finance,Advanced,Spanish,4947
+ Gestión de proyectos de desarrollo,4.7,105,361214,10,IDBx,Business & Management,Introductory,Spanish,4108
+ Trading - Fundamentals of Technical Analysis,4.8,10,67888,6,NYIF,Economics & Finance,Introductory,English,16685
+ Introduction to Illustrator,,,,4,LCIEducation,Design,Introductory,English,8301
+ Data Science: Wrangling,4.4,24,97033,8,HarvardX,Data Analysis & Statistics,Introductory,English,12493
+ Math for Machine Learning with Python,4.4,11,,6,edX,Math,Intermediate,English,8301
+ Liderazgo femenino: potencia tus habilidades e impulsa el cambio,4.7,62,16078,10,IDBx,Communication,Intermediate,Spanish,2432
+ Excel avanzado: importación y análisis de datos,4.5,8,88090,8,UPValenciaX,Data Analysis & Statistics,Advanced,Spanish,5785
+ Biomedical Equipment: Repairing and Maintaining Biomedical Devices,4.6,50,13921,10,DelftX,Engineering,Introductory,English,4192
+ Linear Algebra - Foundations to Frontiers,4.8,12,111467,15,UTAustinX,Computer Science,Intermediate,English,8301
+ Agile and Scrum Fundamentals,4.7,67,16786,3,IBM,Computer Science,Introductory,English,8316
+ El arte de vender: introducción a las ventas,4.6,10,60680,4,JaverianaX,Economics & Finance,Introductory,Spanish,3780
+ Pre-University Physics,4.3,19,28254,5,DelftX,Physics,Introductory,English,4192
+ Nutrition and Health: Food Safety,4.3,49,68277,8,WageningenX,Food & Nutrition,Introductory,English,17524
+ Mindfulness and Resilience to Stress at Work,4.8,15,56815,4,BerkeleyX,Business & Management,Introductory,English,16716
+ Electric Cars: Technology,4.5,55,75957,5,DelftX,Engineering,Intermediate,English,10397
+ Apache Spark for Data Engineering and Machine Learning,4.7,27,7843,3,IBM,Computer Science,Intermediate,English,4108
+ Procurement and Logistics Management,4.5,97,17469,4,ISCEA,Business & Management,Introductory,English,36808
+ GIS Image Analysis in ArcGIS Pro,4.5,50,10482,4,AlaskaX,Engineering,Intermediate,English,15847
+ Pre-University Chemistry,4.4,14,5725,5,DelftX,Chemistry,Introductory,English,4192
+ GIS Foundations,4.4,50,18477,4,AlaskaX,Engineering,Introductory,English,15847
+ Introduction to Pharmacology,3.9,15,28691,8,DoaneX,Medicine,Introductory,English,9978
+ Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),4.7,21,197027,16,HarvardX,Chemistry,Introductory,English,20878
+" Portfolio Management, Governance, & the PMO",4.4,68,28283,6,UWashingtonX,Business & Management,Introductory,English,20916
+ Adobe Illustrator: aprende a crear presentaciones de impacto,,,46112,5,JaverianaX,Design,Introductory,Spanish,1174
+ American Government: Constitutional Foundations,4.7,38,65300,4,HarvardX,Social Sciences,Introductory,English,12493
+" Fundamentals of Neuroscience, Part 2: Neurons and Networks",4.6,47,116620,6,HarvardX,Biology & Life Sciences,Introductory,English,20916
+ Introducción a ChatGPT.¡Impulsa tu productividad al máximo usando inteligencia artificial!,4,18,,2,UPValenciaX,Computer Science,Introductory,Spanish,1593
+" Statistics 1 Part 1: Introductory statistics, probability and estimation",4.3,24,11051,5,LSE,Data Analysis & Statistics,Intermediate,English,16702
+ Islam Through Its Scriptures,4.9,15,94036,4,HarvardX,Humanities,Introductory,English,12516
+ Data Science: Capstone,4.4,54,94684,2,HarvardX,Data Analysis & Statistics,Introductory,English,12493
+ Shakespeare's Life and Work,4.6,49,87313,4,HarvardX,Humanities,Introductory,English,12493
+ Java Programming: Object-Oriented Design,4.7,13,,5,Codio,Computer Science,Introductory,English,15876
+ JavaScript Introduction,4.1,36,217878,5,W3Cx,Computer Science,Introductory,English,20878
+ Essential Career Skills for Investment Banking and Finance,4.7,16,32025,2,NYIF,Business & Management,Introductory,English,4108
+" ¡Luces, celular y acción! Crea contenidos audiovisuales de impacto",4.5,5,12598,4,JaverianaX,Communication,Introductory,Spanish,3773
+ Python for Data Science Project,4.3,42,15991,1,IBM,Data Analysis & Statistics,Intermediate,English,2436
+ Linux Commands & Shell Scripting,4.4,33,19351,1,IBM,Computer Science,Introductory,English,2432
+ Buddhism Through Its Scriptures,4.7,25,214430,4,HarvardX,Humanities,Introductory,English,12493
+ Humanitarian Response to Conflict and Disaster,4.7,106,154839,5,HarvardX,Health & Safety,Introductory,English,12516
+ Nutrition and Health: Macronutrients and Overnutrition,4.5,55,235852,9,WageningenX,Biology & Life Sciences,Introductory,English,20878
+ Japanese Architecture and Structural Design,4.5,24,20682,5,TokyoTechX,Architecture,Intermediate,English,6624
+ Business Communications,4.8,13,93763,6,UBCx,Business & Management,Introductory,English,12600
+" Justice Today: Money, Markets, and Morals",4.8,25,39837,8,HarvardX,Humanities,Introductory,English,12493
+ Gestión ágil de proyectos,4.3,38,25487,5,JaverianaX,Business & Management,Intermediate,Spanish,3773
+ Programming 101: An Introduction to Python for Educators,4.6,20,,4,RaspberryPiFoundation,Education & Teacher Training,Introductory,English,4947
+ Linear Algebra I: Linear Equations,4.2,25,28805,3,GTx,Math,Intermediate,English,20916
+ People Management with Impact,4.7,40,160518,6,IIMBx,Business & Management,Introductory,English,12577
+ From Poverty to Prosperity: Understanding Economic Development,4.8,90,133002,6,OxfordX,Social Sciences,Intermediate,English,20878
+ Cybersecurity Fundamentals,4,29,208064,8,RITx,Computer Science,Advanced,English,33516
+ Introduction to Blockchain and Web3,4.2,21,11644,6,Web3x,Computer Science,Introductory,English,4947
+ 30-hour Grammar and Language Awareness,4.8,21,,10,TEFLx,Education & Teacher Training,Intermediate,English,14170
+ Introduction to Marketing,4.5,39,100646,6,EdinburghX,Business & Management,Introductory,English,12516
+ Getting Started with Data Analytics on AWS,4.4,10,11642,1,AWS,Data Analysis & Statistics,Introductory,English,4947
+ Super-Earths and Life,4.7,48,145210,15,HarvardX,Physics,Introductory,English,12493
+ Django Application Development with SQL and Databases,4.6,26,11947,2,IBM,Computer Science,Intermediate,English,4108
+ CSS Basics,4.3,41,126812,5,W3Cx,Computer Science,Introductory,English,20916
+ Climate Change: Carbon Capture and Storage,4.7,122,34650,5,EdinburghX,Engineering,Introductory,English,4947
+ Introducción a Linux,4.6,18,30015,14,LinuxFoundationX,Computer Science,Introductory,Spanish,5785
+" Circuits and Electronics 2: Amplification, Speed, and Delay",4.5,15,24818,5,MITx,Electronics,Intermediate,English,15847
+ Analytics for Decision Making,4.3,22,42055,4,BabsonX,Business & Management,Introductory,English,25908
+ Modern Masterpieces of World Literature,4.9,27,84665,8,HarvardX,Literature,Introductory,English,17556
+ Marketing digital y sus análisis basado en datos,,,8738,4,TecdeMonterreyX,Business & Management,Intermediate,Spanish,8301
+ Python for AI & Development Project,4.5,23,12633,1,IBM,Data Analysis & Statistics,Intermediate,English,2432
+ Basic Spanish 2: One Step Further,4.5,42,102871,4,UPValenciaX,Language,Introductory,English,3270
+ Embedded Systems Essentials with Arm: Get Practical with Hardware,4.6,28,11764,10,ArmEducationX,Computer Science,Intermediate,English,8301
+ Machine Learning Fundamentals,4.1,14,99858,10,UCSanDiegoX,Data Analysis & Statistics,Advanced,English,29400
+ Introducción a la Ciencia de Datos y el Big Data,4.3,28,50502,4,TecdeMonterreyX,Data Analysis & Statistics,Intermediate,Spanish,4947
+" Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",4.7,77,100501,10,HarvardX,Humanities,Introductory,English,5796
+ Introduction to Social-Emotional Learning (SEL),4.3,120,6809,6,UCR,Education & Teacher Training,Introductory,English,4947
+ Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),4.6,19,94782,16,HarvardX,Physics,Introductory,English,20878
+ Habilidades de negociación y comunicación efectiva,4.8,5,45320,4,TecdeMonterreyX,Business & Management,Introductory,Spanish,15847
+ Google AI for JavaScript developers with TensorFlow.js,4.7,24,18876,7,Google,Computer Science,Introductory,English,25070
+ Financial Markets and Products,4.3,39,,5,State-Bank-of-India,Economics & Finance,Introductory,English,12493
+ Robotics Foundations I - Robot Modeling,4.4,16,26302,8,FedericaX,Engineering,Intermediate,English,4620
+ Introduction to Cybersecurity,4.6,24,127370,6,UWashingtonX,Computer Science,Introductory,English,20878
+ Hello (Real) World with ROS – Robot Operating System,4.2,9,36500,7,DelftX,Engineering,Intermediate,English,11655
+ Introduction to Aerospace Structures and Materials,4.6,29,61961,8,DelftX,Engineering,Introductory,English,11676
+ Excel: gestión de datos,4.3,18,161288,6,UPValenciaX,Computer Science,Intermediate,Spanish,5785
+ L'Italiano nel mondo,,,9711,10,FedericaX,Literature,Introductory,Italian,4612
+ Nutrition and Health: Human Microbiome,4.3,31,66759,6,WageningenX,Health & Safety,Introductory,English,17556
+" CitiesX: The Past, Present and Future of Urban Life",4.6,46,113270,11,HarvardX,Social Sciences,Introductory,English,20878
+" Product Design, Prototyping, and Testing",4.4,51,35673,4,UMD,Business & Management,Introductory,English,20878
+ Forensic Science: DNA Analysis,4.7,27,15504,5,UniversityofCambridge,Biology & Life Sciences,Introductory,English,25070
+ Introduction to Quantum Computing for Everyone,4,30,20356,5,UChicagoX,Computer Science,Introductory,English,16716
+ Introduction to Animal Behaviour,4.5,33,59582,6,WageningenX,Biology & Life Sciences,Introductory,English,17524
+ Introduction to DevOps and Site Reliability Engineering,3.9,23,38241,10,LinuxFoundationX,Computer Science,Introductory,English,17524
+ Data Analytics for Business,3.1,10,55975,16,GTx,Business & Management,Advanced,English,69173
+ Project Management for Development,4.5,77,86136,10,IDBx,Business & Management,Intermediate,English,4108
+ Positive Psychology,4.7,28,5501,8,APA,Social Sciences,Introductory,English,10816
+ Strategic Management,4.4,37,101230,5,IIMBx,Business & Management,Introductory,English,12600
+ Collaborative Data Science for Healthcare,,,16038,12,MITx,Data Analysis & Statistics,Advanced,English,4108
+ Git and GitHub Basics,4.1,22,6960,3,IBM,Computer Science,Introductory,English,8301
+ United States Health Policy,4.8,17,41674,10,HarvardX,Social Sciences,Introductory,English,15847
+ Probability and Statistics I:  A Gentle Introduction to Probability,4.5,10,22379,3,GTx,Data Analysis & Statistics,Intermediate,English,20878
+" A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",4.2,12,9602,7,ImperialX,Math,Intermediate,English,5796
+ Causal Diagrams: Draw Your Assumptions Before Your Conclusions,4.9,16,83872,9,HarvardX,Data Analysis & Statistics,Introductory,English,12493
+ Backyard Meteorology: The Science of Weather,4.7,44,102050,6,HarvardX,Science,Introductory,English,12493
+ Essential Human Biology: Cells and Tissues,4.6,57,88347,5,AdelaideX,Medicine,Introductory,English,14196
+ Entrepreneurship For All (Part I): The UC Berkeley Startup Guide for students by Silicon Valley Insiders,4.9,9,8874,6,BerkeleyX,Business & Management,Intermediate,English,16685
+ Introduction to Linear Models and Matrix Algebra,4.7,11,118583,4,HarvardX,Math,Intermediate,English,18362
+ Gestión de personas: Recursos Humanos,4.7,9,44944,5,UNCordobaX,Business & Management,Introductory,Spanish,9139
+ Successful Negotiation: Essential Strategies and Skills,4.6,26,69877,7,MichiganX,Business & Management,Introductory,English,4947
+ College Algebra,4.6,9,11630,8,DoaneX,Math,Intermediate,English,9978
+ Free Cash Flow Analysis,4.7,31,60409,5,ColumbiaX,Business & Management,Introductory,English,18865
+ JavaScript Basics,4.5,12,,4,UCDavis,Computer Science,Introductory,English,4108
+ Ancient Masterpieces of World Literature,4.8,30,76096,6,HarvardX,Literature,Introductory,English,17524
+ Six Sigma Part 1: Define and Measure,4.6,86,131637,8,TUMx,Business & Management,Introductory,English,16716
+ Business Communications - The Basics,4.3,35,11970,4,DoaneX,Communication,Introductory,English,12493
+ Management - Becoming an Effective Leader,4.8,25,7748,8,DoaneX,Business & Management,Introductory,English,9978
+ Supply Chain Planning and Strategy,4.4,88,21987,4,ISCEA,Business & Management,Introductory,English,20916
+ Photoshop: una herramienta para presentaciones innovadoras,4.8,5,58180,5,JaverianaX,Art & Culture,Introductory,Spanish,1425
+ Brand Management,4.5,12,19952,5,IIMBx,Business & Management,Introductory,English,15876
+ From Code to Creation: Mastering Game Programming,4.2,28,,4,HP,Computer Science,Introductory,English,419
+ Hinduism Through Its Scriptures,4.7,24,162406,4,HarvardX,Humanities,Introductory,English,12493
+ Business and Data Analysis Skills,4.7,34,24562,3,FullbridgeX,Business & Management,Introductory,English,
+ Relational Database Basics,4.5,45,9033,4,IBM,Data Analysis & Statistics,Introductory,English,8301
+ Deep Learning with Python and PyTorch.,3.7,12,51899,6,IBM,Data Analysis & Statistics,Intermediate,English,8316
+ Introduction to ChatGPT. Boost your productivity to the maximum using artificial intelligence!,4.5,31,,2,UPValenciaX,Computer Science,Introductory,English,2436
+ Network Defense Essentials (NDE),4.4,18,,1,EC-Council,Computer Science,Intermediate,English,10816
+ Accounting for Decision-Making,4,27,69047,7,IIMBx,Business & Management,Intermediate,English,12577
+ The Einstein Revolution,4.5,10,44082,14,HarvardX,Humanities,Introductory,English,12493
+ Global Health Case Studies from a Biosocial Perspective,5,5,23563,12,HarvardX,Social Sciences,Introductory,English,
+ The Neuropsychology of Decision Making,4.3,23,7214,6,UniversityofCambridge,Social Sciences,Introductory,English,18396
+ Case Studies in Functional Genomics,,,44781,5,HarvardX,Data Analysis & Statistics,Advanced,English,18362
+ Transforming Our World: Achieving the Sustainable Development Goals,4.4,26,19078,1,SDGAcademyX,Environmental Studies,Intermediate,English,
+ Soft Skills: Solve Problems w/ Creative & Critical Thinking,4.5,30,,1,IBM,Business & Management,Introductory,English,2432
+ Comunicación efectiva para el líder actual,4.7,7,41317,4,TecdeMonterreyX,Communication,Introductory,Spanish,15876
+ The Essentials of Data Literacy Online Course,4.4,25,10647,4,DavidsonX,Data Analysis & Statistics,Introductory,English,20878
+ Blockchain: Understanding Its Uses and Implications,4.5,90,111057,14,LinuxFoundationX,Business & Management,Introductory,English,15847
+ Marketing Innovative Products and Services,4.5,43,23578,4,UMD,Business & Management,Introductory,English,15847
+ Excel básico para emprendedores,,,,3,URosarioX,Business & Management,Introductory,Spanish,4108
+ Upper-Intermediate English: Business and Technology,4.5,10,70308,4,UPValenciaX,Language,Intermediate,English,3270
+ Introduction to Engineering Design,4.7,10,,1,MathWorks,Engineering,Introductory,English,4956
+" Introduction to Cloud Native, DevOps, Agile, and NoSQL",4.1,39,12172,2,IBM,Computer Science,Intermediate,English,4108
+ Leading With Effective Communication (Inclusive Leadership Training),4.7,143,141409,4,CatalystX,Communication,Introductory,English,5785
+ Fundamentals of Economics,,,,4,BerkeleyX,Economics & Finance,Introductory,English,8301
+ AI for Leaders,4.4,28,18636,4,BabsonX,Business & Management,Introductory,English,20916
+" Data Science for Construction, Architecture and Engineering",4.4,19,37554,7,NUS,Data Analysis & Statistics,Introductory,English,16685
+ Building your Screenplay,4.3,9,22418,4,UniversityofCambridge,Communication,Intermediate,English,25070
+ Astrophysics: Cosmology,4.9,29,100069,10,ANUx,Physics,Intermediate,English,4947
+ Foundations of Modern Finance II,,,25979,12,MITx,Economics & Finance,Advanced,English,46031
+ Building a RISC-V CPU Core,4.6,17,12791,7,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Introduction to Analytics Modeling,4.8,13,83033,16,GTx,Data Analysis & Statistics,Advanced,English,69173
+ Deploying TinyML,4.6,14,22895,5,HarvardX,Data Analysis & Statistics,Intermediate,English,25070
+ How to Code: Simple Data,4.2,13,162217,7,UBCx,Computer Science,Introductory,English,10481
+ Mathematics 1 Part 1: Differential Calculus,4.4,16,8486,5,LSE,Math,Intermediate,English,16702
+ Customer Relationship Management,4.7,24,72695,6,IIMBx,Business & Management,Intermediate,English,15847
+ Computer Forensics,4.5,11,89062,8,RITx,Computer Science,Advanced,English,33454
+ Marketing Essentials,4.6,16,29747,5,IIMBx,Business & Management,Introductory,English,15847
+ Applications of TinyML,4.4,16,23700,6,HarvardX,Data Analysis & Statistics,Intermediate,English,25070
+ Excel for Everyone: Data Management,4.6,20,41814,6,UBCx,Data Analysis & Statistics,Intermediate,English,15847
+ Deep Learning Fundamentals with Keras,4.4,25,49091,5,IBM,Data Analysis & Statistics,Intermediate,English,8301
+ Introduction to Robotic Programming,4.9,7,,8,RWTHx,Computer Science,Introductory,English,8301
+ Introduction to Bioconductor,4.8,6,53001,4,HarvardX,Data Analysis & Statistics,Intermediate,English,18362
+ 3D Printing Essentials: From Design to Reality,4.4,35,,3,AlaskaX,Design,Introductory,English,4108
+ Inglés para todos: nivel básico más,,,,1,URosarioX,Language,Introductory,English,4108
+ Strengthening Community Health Worker Programs,4.7,24,85383,6,HarvardX,Health & Safety,Introductory,English,
+ Technical Support Basics for Everyone,4.7,33,5476,5,IBM,Computer Science,Introductory,English,4116
+" U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy",4.9,35,44342,4,HarvardX,Social Sciences,Introductory,English,12493
+ How to Use ChatGPT in Tech/Coding/Data,3.9,22,,1,edX,Computer Science,Intermediate,English,1677
+ Foundations of Data Analytics,4.4,8,6281,8,HKUSTx,Computer Science,Intermediate,English,31778
+ Understanding the TOEFL Essentials Test,4.5,22,24955,6,ETSx,Communication,Introductory,English,4108
+ La Dirección y Gestión de Proyectos,4.5,13,8736,5,UNCordobaX,Business & Management,Intermediate,Spanish,3773
+ Databases: Modeling and Theory,,,19935,2,StanfordOnline,Computer Science,Introductory,English,5796
+ Agile Leadership Principles and Practices,4.8,55,51200,4,UMD,Engineering,Advanced,English,20878
+" Language, Proof and Logic",,,28205,15,StanfordOnline,Philosophy & Ethics,Introductory,English,8301
+ Penetration Testing and Incident Response,4.3,6,,4,IBM,Computer Science,Introductory,English,12493
+" Software, Programming, and Database Basics",4.5,9,,5,IBM,Computer Science,Introductory,English,4108
+ Financial Accounting Made Fun: Eliminating Your Fears,4.5,28,54692,4,BabsonX,Business & Management,Introductory,English,20916
+ UX Design,,,33308,6,HECMontrealX,Design,Intermediate,English,30939
+ Finanzas e inversiones para no financieros,,,5626,4,URosarioX,Economics & Finance,Introductory,Spanish,3276
+ Academic Writing Made Easy,,,64802,8,TUMx,Language,Intermediate,English,4947
+ Practical Improvement Science in Health Care: A Roadmap for Getting Results,4.9,12,19463,7,HarvardX,Business & Management,Introductory,English,20878
+ Transformando la educación con IA: ChatGPT,4.7,37,12359,4,GalileoX,Education & Teacher Training,Introductory,Spanish,2436
+" Women Making History: Ten Objects, Many Stories",4.6,22,69014,8,HarvardX,History,Introductory,English,17524
+ Data Science Tools,4.4,42,34926,7,IBM,Data Analysis & Statistics,Introductory,English,8301
+ Computer Architecture Essentials on Arm,4.2,9,,6,ArmEducationX,Computer Science,Intermediate,English,8301
+ Academic English: How to Write a Thesis,4.8,8,6854,10,UQx,Education & Teacher Training,Introductory,English,10816
+ The Industry and Profession in Construction Management,4.6,30,7995,4,UMD,Engineering,Intermediate,English,20878
+ Marketing Digital: Desde SEO hasta Analítica de Datos,3.6,5,,5,AnahuacX,Business & Management,Introductory,Spanish,4108
+ Visual Presentation,4.6,24,13549,3,RITx,Communication,Introductory,English,16685
+ Circuits for Beginners,4.6,15,10529,6,NUS,Engineering,Introductory,English,11676
+ Digital Forensics Essentials (DFE),4.7,13,,1,EC-Council,Computer Science,Intermediate,English,10816
+" Principles, Statistical and Computational Tools for Reproducible Data Science",4.1,11,108207,8,HarvardX,Data Analysis & Statistics,Intermediate,English,12493
+ Advanced Corporate Strategy,4.5,8,8158,5,IIMBx,Business & Management,Advanced,English,15847
+ Fundamentals of Red Hat Enterprise Linux 9,4.7,23,76201,8,RedHat,Computer Science,Introductory,English,8316
+ C Programming: Language Foundations,4.6,15,70359,5,DartmouthX,Computer Science,Introductory,English,8301
+ Introducción a Matemáticas para Finanzas y Negocios,,,22375,5,TecdeMonterreyX,Economics & Finance,Advanced,Spanish,4947
+ Cell Biology: Transport and Signaling,5,7,11778,6,MITx,Biology & Life Sciences,Advanced,English,8301
+ Teaching Critical Thinking through Art with the National Gallery of Art,4.9,29,34233,16,SmithsonianX,Education & Teacher Training,Introductory,English,9996
+ Introduction to Astrophysics,3.8,8,42431,7,EPFLx,Physics,Introductory,English,15008
+" A-level Further Mathematics for Year 13 - Course 1: Differential Equations, Further Integration, Curve Sketching, Complex Numbers, the Vector Product and Further Matrices",4.8,5,,7,ImperialX,Math,Intermediate,English,5785
+ Italian Language and Culture: Advanced (2023-2024),4.7,47,40768,12,WellesleyX,Language,Advanced,Italian,4956
+ Public Financial Management,4.8,66,43869,8,IMFx,Economics & Finance,Intermediate,English,2096
+ Macroeconomics: Theory and Policy,4.3,21,,6,IIMBx,Economics & Finance,Intermediate,English,15847
+ Financial Analysis for Decision Making,4.6,21,51941,4,BabsonX,Business & Management,Introductory,English,20916
+ Developing Your Personal Leadership Style,4.4,20,6175,4,IUx,Business & Management,Introductory,English,16685
+ Basic Spanish 3: Getting there,4.4,42,40068,4,UPValenciaX,Language,Introductory,English,3270
+ The Opioid Crisis in America,4.8,26,76188,10,HarvardX,Medicine,Introductory,English,12493
+ Deep Learning with Tensorflow,4.4,14,52938,5,IBM,Data Analysis & Statistics,Intermediate,English,8301
+ Intellectual Property Law and Policy: Part 1,4.4,14,62458,6,PennX,Law,Intermediate,English,14196
+ New Product Development,,,16916,6,IIMBx,Business & Management,Introductory,English,15847
+" DevOps on AWS: Code, Build, and Test",4.3,17,7613,2,AWS,Computer Science,Intermediate,English,4947
+ Psicología Criminal,4.7,11,,4,AnahuacX,Social Sciences,Introductory,Spanish,4108
+ Introducción al desarrollo de aplicaciones web,3.5,5,63567,5,UAMx,Computer Science,Introductory,Spanish,2432
+ Risk Management for Projects,4.6,75,37938,5,AdelaideX,Business & Management,Introductory,English,20916
+" Inglés empresarial: ventas, gestión y liderazgo",4.8,14,41083,4,AnahuacX,Business & Management,Introductory,Spanish,3270
+ Quantitative Biology Workshop,4.3,8,27413,9,MITx,Biology & Life Sciences,Intermediate,English,8301
+ Sustainable Energy: Design a Renewable Future,4.2,22,40290,9,DelftX,Engineering,Intermediate,English,5198
+ Introduction to FinTech,4.6,38,118905,6,HKUx,Economics & Finance,Introductory,English,16685
+ Industrial Biotechnology,4.6,9,20603,7,DelftX,Engineering,Intermediate,English,12516
+ Computing in Python II: Control Structures,4.8,36,53281,5,GTx,Computer Science,Introductory,English,15847
+ Inteligencia emocional para el liderazgo efectivo y colaboración,4.4,33,46464,4,AnahuacX,Social Sciences,Introductory,Spanish,3270
+ IoT Systems and Industrial Applications with Design Thinking,4.4,22,,7,EPFLx,Engineering,Intermediate,English,14170
+ Data Representation and Visualization in Tableau,4.1,17,16194,4,RITx,Data Analysis & Statistics,Intermediate,English,20878
+ Introduction to Jenkins,4.1,9,24500,12,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Upper-Intermediate English: Business and Globalization,4.8,11,82476,4,UPValenciaX,Language,Intermediate,English,3270
+ Solar Energy: Photovoltaic (PV) Systems,4.8,5,36923,11,DelftX,Engineering,Advanced,English,20961
+ MalariaX: Defeating Malaria from the Genes to the Globe,4.6,14,10834,11,HarvardX,Biology & Life Sciences,Intermediate,English,
+ Religious Literacy: Traditions and Scriptures,4.6,33,118302,4,HarvardX,Humanities,Introductory,English,12493
+ Models and Platforms for Generative AI,4.6,5,,3,IBM,Computer Science,Introductory,English,4108
+ Electric Cars: Introduction,4.4,37,81477,4,DelftX,Engineering,Intermediate,English,10397
+ Lean Production,4.7,80,75614,6,TUMx,Business & Management,Introductory,English,15847
+ Cell Biology: The Cytoskeleton and Cell Cycle,,,6348,7,MITx,Biology & Life Sciences,Advanced,English,8301
+ Fundamentos del marketing digital,4.3,18,11944,3,UPValenciaX,Business & Management,Introductory,Spanish,3773
+ ChatGPT - Usos y Estrategias,,,,4,TecdeMonterreyX,Computer Science,Introductory,Spanish,4200
+ Design Thinking Fundamentals,4.5,9,79976,6,RITx,Business & Management,Intermediate,English,28256
+ Maths Foundations,,,,4,AdelaideX,Math,Introductory,English,8316
+ Python Programming: Intermediate Concepts,4.6,17,,5,Codio,Computer Science,Introductory,English,15847
+ Academia de Empreendedorismo,,,,7,UNL,Business & Management,Introductory,Portuguese,4612
+ Herramientas de Inteligencia Artificial para la productividad. Más allá del ChatGPT,,,,4,UPValenciaX,Engineering,Intermediate,Spanish,4108
+ Abnormal Psychology,4.6,8,11242,8,DoaneX,Humanities,Intermediate,English,9996
+ Entropy and Equilibria,4.3,6,5580,10,HarvardX,Chemistry,Introductory,English,20878
+ Introducción a las finanzas: Principios de valoración,,,35704,4,URosarioX,Economics & Finance,Intermediate,Spanish,1593
+ Introduction to Hospitality and Tourism Industry,4.5,34,22247,6,UMES,Business & Management,Introductory,English,4116
+ Your Body Inside and Out: Using Exercise Physiology to Slow Aging,4.8,15,9286,8,StanfordOnline,Biology & Life Sciences,Introductory,English,5785
+ Digital Design,,,29878,5,HKUSTx,Design,Introductory,English,4947
+ Introducción a la ciberseguridad,,,15346,4,URosarioX,Computer Science,Intermediate,Spanish,4116
+ Risk Management Tools and Practices,4.5,63,,4,NYIF,Economics & Finance,Intermediate,English,
+ AP® Italian Language and Culture (2024-2025),4.6,8,,12,WellesleyX,Humanities,Advanced,Italian,4947
+ The Resilient and Renewable Grid: How Microgrids are Revolutionizing Energy Systems,4.3,35,,4,AlaskaX,Engineering,Introductory,English,20916
+ Nutrition and Cancer,4.7,41,44218,5,WageningenX,Food & Nutrition,Intermediate,English,15847
+ Pensamiento crítico: toma de decisiones razonadas,,,29780,4,TecdeMonterreyX,Business & Management,Introductory,Spanish,15847
+ Introducción a la inversión bursátil,4.2,20,103260,2,UPValenciaX,Economics & Finance,Introductory,Spanish,3276
+ Power Searching with Google,4.6,9,27222,3,Google,Computer Science,Introductory,English,18362
+ Comunicación y Redacción Digital,4.7,11,30070,4,AnahuacX,Communication,Introductory,Spanish,1593
+ Biotech — From Science to Business,4.8,15,,4,TUMx,Business & Management,Introductory,English,12516
+" Data Ethics, AI and Responsible Innovation",4.4,13,13116,5,EdinburghX,Computer Science,Intermediate,English,4947
+ Computing in Python III: Data Structures,4.4,29,45413,5,GTx,Computer Science,Introductory,English,15847
+ Introducción a la inteligencia emocional,4.8,27,40402,4,AnahuacX,Social Sciences,Introductory,Spanish,3270
+ Marketing enfocado en la estrategia de servicios,4.4,5,42420,6,UNCordobaX,Business & Management,Introductory,Spanish,9156
+ Inteligencia Artificial para negocios,4.2,5,,5,TecdeMonterreyX,Computer Science,Intermediate,Spanish,10816
+ Effective Management and Communication,4.6,48,,4,IUx,Business & Management,Introductory,English,16685
+ A Better Start to Reading,4.7,10,13441,6,UCx,Education & Teacher Training,Introductory,English,15876
+ Networking and Storage Essentials,4.5,11,,4,IBM,Computer Science,Introductory,English,4108
+ Getting Started with Your Raspberry Pi,4.4,9,,3,RaspberryPiFoundation,Education & Teacher Training,Introductory,English,4947
+ Preparación de alimentos saludables,,,,5,AnahuacX,Food & Nutrition,Introductory,Spanish,1593
+ C++ Programming: Object-Oriented Design,,,,5,Codio,Computer Science,Introductory,English,15847
+ Introduction to Machine Learning on AWS,4.5,12,,2,AWS,Computer Science,Introductory,English,4947
+ Big Data Computing with Spark,,,,8,HKUSTx,Computer Science,Intermediate,English,31778
+ Data Structures Fundamentals,,,54432,6,UCSanDiegoX,Computer Science,Intermediate,English,12577
+ An Introduction to Pre-University Mathematics,,,,6,LSE,Math,Introductory,English,16716
+ An Introduction to Web Development,4.5,8,,3,RaspberryPiFoundation,Education & Teacher Training,Intermediate,English,4947
+ How to Influence the Consumer Behavior to Drive Sales by Jonah Berger,4.3,18,,2,WOBI,Business & Management,Intermediate,English,25908
+ Self-Driving Cars with Duckietown,,,12288,9,ETHx,Computer Science,Introductory,English,4192
+ Sustainable Construction Management,4.6,31,5575,4,UMD,Engineering,Intermediate,English,20878
+ Façade design and engineering: complexity made simple,4.6,34,7335,6,DelftX,Architecture,Introductory,English,11655
+ Incorporating Renewable Energy in Electricity Grids,4.6,37,20429,6,ImperialX,Energy & Earth Sciences,Intermediate,English,4956
+ On-Ramp to AP® French Language and Culture,,,114745,3,WestonHS,Humanities,Advanced,French,2432
+ Python Programming: Object-Oriented Design,4.7,12,,5,Codio,Computer Science,Introductory,English,15876
+ PyTorch Basics for Machine Learning,3.5,22,15228,5,IBM,Data Analysis & Statistics,Introductory,English,3270
+ Developing Generative AI Applications with Python,,,,6,IBM,Computer Science,Intermediate,English,8301
+ Soft Skills: Collaborate Effectively,4.6,6,,1,IBM,Communication,Introductory,English,2432
+ Physics Fundamentals: Electromagnetics,4.5,27,,7,UPValenciaX,Physics,Introductory,English,2432
+ Soft Skills: Present with Purpose,4.4,24,,1,IBM,Communication,Introductory,English,2432
+ Computing in Python IV: Objects & Algorithms,4.7,29,46635,5,GTx,Computer Science,Introductory,English,15876
+ Data Mining and Knowledge Discovery,4.8,5,,8,HKUSTx,Computer Science,Intermediate,English,36808
+ Intro Course: Spreadsheets and Statistics,4.5,6,,4,edX,Data Analysis & Statistics,Introductory,English,8301
+ Introducción a SQL y bases de datos relacionales,4.5,24,13206,5,UPValenciaX,Computer Science,Introductory,Spanish,3270
+ Basic Analytical Chemistry,3.4,6,35598,6,UTokyoX,Chemistry,Introductory,English,4947
+ Semiconductors for Beginners,4.8,13,5554,3,NUS,Engineering,Introductory,English,11655
+ Creative Thinking: Techniques and Tools for Success,4.4,47,80107,7,ImperialX,Humanities,Introductory,English,4947
+ The Entrepreneurial Mindset,4.3,17,42752,6,BabsonX,Business & Management,Introductory,English,15847
+ Autonomous Mobile Robots,4.6,7,73184,15,ETHx,Computer Science,Intermediate,English,4192
+ Network Security,4.8,10,69946,8,RITx,Computer Science,Advanced,English,33516
+ Introduction to Psychological Aspects of Game Design,,,,5,LCIEducation,Computer Science,Introductory,English,15008
+" European History, Society and Culture",4.5,25,,8,KULeuvenX,History,Intermediate,English,4947
+ Business Communication,4.5,35,17232,3,RITx,Communication,Introductory,English,16685
+ Genetics: Analysis and Applications,5,12,,8,MITx,Biology & Life Sciences,Advanced,English,8301
+ Líderes para la gestión en seguridad ciudadana y justicia,4.8,31,,10,IDBx,Social Sciences,Intermediate,Spanish,2100
+ Gerencia estratégica: bases y principios,4.7,13,7294,4,JaverianaX,Business & Management,Introductory,Spanish,3773
+ Becoming a Successful Leader (Inclusive Leadership Training),4.6,138,235283,4,CatalystX,Communication,Introductory,English,5785
+ Finding Purpose Across Your Life,,,,6,BerkeleyX,Social Sciences,Introductory,English,12493
+ FlashDiet: Aprende a comer sano,,,80791,5,UPValenciaX,Food & Nutrition,Introductory,Spanish,3270
+ Visualización de Datos y Storytelling,4.2,10,18147,4,TecdeMonterreyX,Data Analysis & Statistics,Intermediate,Spanish,4947
+ Data Warehousing and BI Analytics,4.4,19,6142,6,IBM,Computer Science,Intermediate,English,8316
+ Computer Graphics,,,119028,6,UCSanDiegoX,Computer Science,Intermediate,English,8301
+ Molecular Biology - Part 2: Transcription and Transposition,,,27985,7,MITx,Biology & Life Sciences,Advanced,English,8301
+ Managing Conflicts on Projects with Cultural and Emotional Intelligence,4.7,59,14702,5,UMD,Business & Management,Introductory,English,20878
+ Reservoir Geomechanics,4.9,19,17783,10,StanfordOnline,Energy & Earth Sciences,Introductory,English,13356
+ Foundations of Corporate Finance,4.6,19,5422,5,UniversityofCambridge,Economics & Finance,Intermediate,English,25070
+ Introduction to Electrical and Electronic Engineering - ???????? -,4.3,8,36465,4,TokyoTechX,Engineering,Introductory,English,10816
+ Teaching Complex Thinking through Art with the National Gallery of Art,5,6,,16,SmithsonianX,Education & Teacher Training,Introductory,English,9978
+ Guided Project: Web Development w/ HTML & CSS for Beginners,,,,1,IBM,Computer Science,Introductory,English,41916
+ Gestion de projets de développement,4.5,41,63508,10,IDBx,Business & Management,Intermediate,French,2096
+ A travel by Spanish America: Spanish for beginners,,,28933,4,URosarioX,Language,Introductory,Spanish,3270
+" Food for Thought: The Relationship Between Food, Gut and Brain",4.8,5,,5,EIT_Food,Food & Nutrition,Intermediate,English,10816
+ Teaching & Learning in the Diverse Classroom,4.6,36,21077,5,CornellX,Education & Teacher Training,Introductory,English,8316
+ Introduction to Encryption and Cryptography,4.5,5,,2,RaspberryPiFoundation,Education & Teacher Training,Intermediate,English,4947
+ Let’s Get Emotional:  Emotions & Emotional Intelligence!,4.3,19,9851,5,UMD,Business & Management,Introductory,English,20878
+ Unlocking the Power of Generative AI with ChatGPT for Higher Education,4.8,21,,5,GalileoX,Education & Teacher Training,Introductory,English,3270
+ Python and Pandas for Data Engineering,4.5,26,,4,AI,Computer Science,Introductory,English,37647
+ Lean Six Sigma Program and Project Management,4.1,10,,3,ISCEA,Business & Management,Introductory,English,20878
+ Accounting System Structure and Information Management,4.5,33,8652,4,NYIF,Economics & Finance,Introductory,English,4192
+ Fundamentos de información financiera y contable,4.7,11,17439,5,AnahuacX,Economics & Finance,Intermediate,Spanish,3270
+" Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps",4.9,12,8378,5,GTx,Computer Science,Intermediate,English,15876
+ Introduction to Open Source Networking Technologies,4.5,8,26438,14,LinuxFoundationX,Computer Science,Introductory,English,20878
+ So You Want To Be A Surgeon?,4.9,8,18624,6,HKUx,Medicine,Introductory,English,8301
+ Rise to Leadership: Become a CEO,3.9,9,27337,4,BabsonX,Business & Management,Intermediate,English,20878
+ Fundamentos de la guitarra eléctrica y acústica,4.8,5,26785,6,BerkleeX,Music,Introductory,Spanish,4947
+ Fisiología del ejercicio para todos,,,,4,URosarioX,Medicine,Introductory,Spanish,3270
+ Digital Platforms in Performance,4.7,6,9846,4,UniversityofCambridge,Communication,Intermediate,English,25070
+ El cerebro y las emociones en el lenguaje,4.8,8,63668,5,URosarioX,Communication,Introductory,Spanish,4116
+ Diseño e innovación de modelo de negocios,4.8,11,18776,4,TecdeMonterreyX,Business & Management,Advanced,Spanish,9978
+ Autism and Mental Health,4.9,16,,4,CurtinX,Health & Safety,Introductory,English,8301
+ Python for Data Engineering Project,4.8,9,8469,1,IBM,Data Analysis & Statistics,Intermediate,English,2432
+ Business Intelligence and Data Analytics,4.3,6,,5,ASUx,Data Analysis & Statistics,Introductory,English,12516
+ Probability Theory,,,,6,DelftX,Math,Intermediate,English,12493
+ Introduction to AWS Cloud Careers,4.5,6,,2,AWS,Computer Science,Introductory,English,9978
+ Data Engineering,,,,5,ASUx,Data Analysis & Statistics,Introductory,English,12516
+ IA para docentes: Transforma tu enseñanza con ChatGPT,4.8,8,,3,AnahuacX,Computer Science,Introductory,Spanish,3270
+" Power BI para los negocios, herramientas de productividad",4.1,19,10289,5,UPValenciaX,Data Analysis & Statistics,Intermediate,Spanish,3270
+ Data Analytics and Visualization Capstone Project,4.5,12,5889,6,IBM,Data Analysis & Statistics,Introductory,English,12493
+ Matemáticas para la U,,,8190,4,URosarioX,Math,Introductory,Spanish,3270
+" Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems",4.6,10,23819,4,AdelaideX,Business & Management,Intermediate,English,16716
+ Ciencia de Datos Aplicada al Marketing,3.9,9,6677,5,AnahuacX,Data Analysis & Statistics,Introductory,Spanish,1593
+ Dynamics and Control,4.5,20,31361,6,UPValenciaX,Engineering,Introductory,English,3276
+ e-Learning on Digital Agriculture,4.3,24,14952,5,WBGx,Environmental Studies,Introductory,English,419
+ Debate y argumentación,4.3,6,22907,4,URosarioX,Humanities,Introductory,Spanish,1593
+ Mejora tu Negocio con Inteligencia Artificial,3.6,10,,5,AnahuacX,Business & Management,Intermediate,Spanish,3270
+ Nitrogen: A Global Challenge,4.5,54,6660,5,EdinburghX,Environmental Studies,Introductory,English,4956
+ Electricity Distribution,4.7,10,,7,NUS,Engineering,Intermediate,English,11655
+ Applied anatomy of the locomotor system,4.4,10,17725,8,FedericaX,Medicine,Intermediate,English,4610
+ Introduction to Node.js,4.4,5,21641,7,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Data Literacy Foundations,3.9,15,7512,4,RITx,Data Analysis & Statistics,Intermediate,English,20878
+ Cement Chemistry and Sustainable Cementitious Materials,4,14,10041,6,EPFLx,Physics,Intermediate,English,20916
+" Introduction to Semiconductors, PN Junctions and Bipolar Junction Transistors",4.7,9,17091,8,HKUSTx,Electronics,Intermediate,English,15847
+ Risk Management and Credit Principles,4.4,18,18074,6,NYIF,Economics & Finance,Advanced,English,16685
+ Cell Biology: Cell-Cell Interactions,4.9,8,7090,7,MITx,Biology & Life Sciences,Advanced,English,8301
+ The What and How of Esports Management!,4,28,,4,HP,Computer Science,Introductory,English,420
+ Intro Course: Data Storytelling,,,,4,edX,Business & Management,Introductory,English,8301
+ Shakespeare's Hamlet: The Ghost,4.4,13,53860,4,HarvardX,Humanities,Introductory,English,12493
+ Applied Storytelling,4.1,11,5713,4,DavidsonX,Communication,Introductory,English,10836
+ Clinical Nutrition – evidence-based practice,4.6,36,,6,KULeuvenX,Food & Nutrition,Intermediate,English,4947
+ Introducción al Office 365,4.6,5,34690,7,UPValenciaX,Computer Science,Introductory,Spanish,5785
+ Project Management Life Cycle,4.5,51,141485,10,RITx,Business & Management,Intermediate,English,37647
+" Money Markets, Foreign Exchange and Time Value of Money",4.5,17,20955,4,NYIF,Economics & Finance,Introductory,English,16685
+ Efficient HVAC Systems,4.8,11,12914,5,DelftX,Architecture,Intermediate,English,11655
+ Strategic Applications of IT Project & Program Management,4.7,21,27943,6,UWashingtonX,Business & Management,Introductory,English,20916
+ Solar Energy: Photovoltaic (PV) Energy Conversion,4.6,8,55025,12,DelftX,Engineering,Advanced,English,20961
+ Logistics Fundamentals,4.7,11,15245,5,logycaX,Engineering,Introductory,English,2096
+ Sustainable Soil Management: Soil for life,4.5,23,29206,7,WageningenX,Environmental Studies,Introductory,English,17556
+ Data and AI Fundamentals,4.2,11,,10,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Professional Business Presentations,,,14294,5,DoaneX,Communication,Introductory,English,16685
+ Sustainable Urban Development,4.7,20,56090,7,DelftX,Architecture,Introductory,English,11676
+" Impact, Ethics, and Issues with Generative AI",4.6,9,,3,IBM,Computer Science,Introductory,English,4108
+ Contemporary Issues in World Politics,4.2,14,19192,7,FedericaX,Social Sciences,Introductory,English,4107
+ Human Resources: Acquiring and Managing Talent in the 21st Century,4.8,23,,8,UCR,Business & Management,Introductory,English,9996
+ Calculus II: Multivariable Functions,,,,6,DelftX,Math,Intermediate,English,12516
+ Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),4.7,42,39993,4,WBGx,Economics & Finance,Introductory,English,419
+ Mandarin Chinese Essentials,4.6,9,56768,5,MandarinX,Language,Introductory,English,15847
+ Drones for Agriculture: Prepare and Design Your Drone (UAV) Mission,4.4,12,18381,3,WageningenX,Data Analysis & Statistics,Intermediate,English,17556
+ Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms,3.5,13,9725,6,GTx,Computer Science,Introductory,English,20878
+" Innovate & Regulate: Drug Research, Costs, Clinical Trials & Approval",4.6,31,27548,5,DavidsonX,Medicine,Intermediate,English,9978
+ Stand Up!; Comedy Writing and Performance Poetry,5,7,12752,4,UniversityofCambridge,Communication,Intermediate,English,25070
+ Make Your Own App,4.3,13,31391,7,TUMx,Computer Science,Introductory,English,6456
+ Judaism Through Its Scriptures,4.7,19,61347,4,HarvardX,Humanities,Introductory,English,12493
+ Behavioral Neuroscience: Foundations of Compulsive Behaviors,,,,5,AlaskaX,Biology & Life Sciences,Introductory,English,15847
+ First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,4.9,9,48554,3,HarvardX,Humanities,Introductory,English,12516
+ AI for Teachers,4.5,21,,3,UBCx,Computer Science,Introductory,English,1258
+ Human-Computer Interaction I: Fundamentals & Design Principles,4.7,10,19650,6,GTx,Computer Science,Introductory,English,9978
+ VITARA - Compliance Risk Management,4.5,19,,1,IMFx,Economics & Finance,Introductory,English,2096
+ Microservices and Serverless,4.3,7,,2,IBM,Computer Science,Intermediate,English,8301
+ La gestion des ressources humaines,4.4,19,22121,7,HECMontrealX,Business & Management,Introductory,French,20878
+ Quantum Mechanics,,,6876,18,GeorgetownX,Physics,Intermediate,English,25908
+" Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media",4.7,23,37796,4,HarvardX,Social Sciences,Introductory,English,12493
+ Python Fundamentals for Business Analytics,,,,6,LehighX,Computer Science,Introductory,English,15008
+ Digital Design,,,10407,10,HarveyMuddX,Engineering,Introductory,English,15876
+ Word intermedio: herramientas de formato y productividad,4.6,13,22156,6,UPValenciaX,Computer Science,Intermediate,Spanish,3773
+ Supply Chain Management Tools and Techniques,4.3,35,6851,4,ISCEA,Business & Management,Introductory,English,30939
+ Introduction to psychology of personality,4,6,7414,7,FedericaX,Humanities,Intermediate,English,4612
+ Introduction to RISC-V,3.2,6,10400,7,LinuxFoundationX,Computer Science,Introductory,English,15876
+ Introduction to Water and Climate,4.3,20,44346,10,DelftX,Engineering,Intermediate,English,11655
+" Sustainable Supply Chain Planning, Sourcing, and Procurement",4.4,23,5904,4,ISCEA,Business & Management,Intermediate,English,41839
+ Linear Algebra I: Vectors and Linear Equations,,,,6,DelftX,Math,Intermediate,English,12493
+ Risk & Return,4.6,32,32057,4,ColumbiaX,Business & Management,Introductory,English,18865
+ Energía eléctrica: conceptos y principios básicos,,,21213,7,TecdeMonterreyX,Engineering,Intermediate,Spanish,4947
+ Introduction to Computer Science and Programming,,,9576,5,TokyoTechX,Computer Science,Introductory,English,6636
+ China Humanities: The Individual in Chinese Culture,4.6,6,17129,8,HarvardX,Humanities,Introductory,English,12493
+ Software Engineering: Introduction,4.3,11,53994,8,UBCx,Computer Science,Advanced,English,10481
+" Agricultural Water Management: Water,-Society and Technology Interactions",4.2,14,5591,10,WageningenX,Environmental Studies,Intermediate,English,14170
+ Design Thinking: Empathizing to Understand the Problem,4.4,8,18158,6,RITx,Business & Management,Intermediate,English,28308
+ Psicología Positiva,,,,4,AnahuacX,Social Sciences,Introductory,Spanish,2180
+ Identifying Entrepreneurial Opportunities,4.8,6,22765,4,UMD,Business & Management,Introductory,English,15847
+ Aprendizaje automático (machine learning) y ciencia de datos,4.6,16,25949,5,UPValenciaX,Computer Science,Intermediate,Spanish,3270
+ Open Source Software Development: Linux for Developers,4.3,7,6114,14,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Agile Innovation and Problem Solving Skills,4.5,37,27240,4,UMD,Engineering,Advanced,English,20916
+ Fundamentos de la Tecnología Blockchain,4.3,9,30267,5,JaverianaX,Economics & Finance,Introductory,Spanish,3773
+ Essentials of Genomics and Biomedical Informatics,4.6,5,12193,12,IsraelX,Medicine,Advanced,English,4947
+ Introduction to Serverless on Kubernetes,,,13153,7,LinuxFoundationX,Computer Science,Introductory,English,17556
+ Architecting Solutions on AWS,4.4,8,,4,AWS,Computer Science,Intermediate,English,4947
+ Space Mission Design and Operations,4.6,14,30630,8,EPFLx,Engineering,Intermediate,English,4947
+ HR Skills® Fundamentals,,,,2,MindEdge,Business & Management,Introductory,English,29316
+ Digital Branding and Engagement,4.7,11,140803,4,CurtinX,Communication,Intermediate,English,8301
+ MathTrackX: Differential Calculus,4.8,6,6680,4,AdelaideX,Math,Introductory,English,8301
+ Introduction to User Experience,4.1,9,22398,4,HECMontrealX,Computer Science,Intermediate,English,20878
+ Sustainable Global Food Systems,4.5,25,5577,5,EdinburghX,Food & Nutrition,Introductory,English,4956
+ Redes de computadores,,,7770,1,URosarioX,Computer Science,Intermediate,Spanish,3270
+ Foundations of Central Bank Law,4.5,21,15305,9,IMFx,Law,Intermediate,English,2096
+ Java Programming: Intermediate Concepts,,,,4,Codio,Computer Science,Introductory,English,15847
+ Fundamentos de Mecánica para Ingeniería,,,23044,6,UPValenciaX,Physics,Introductory,Spanish,1593
+ Linear Algebra II: Matrix Algebra,4.6,8,8736,3,GTx,Math,Intermediate,English,20916
+ Fundamentals of Aesthetic Dentistry,3.8,5,,4,HKUx,Medicine,Introductory,English,8316
+ Sustainable Building with Timber,4.6,10,,7,DelftX,Architecture,Introductory,English,11655
+ Introducción a los encofrados y las cimbras en obra civil y edificación,4.2,10,31139,4,UPValenciaX,Engineering,Introductory,Spanish,3270
+ UML Class Diagrams for Software Engineering,4.2,20,43124,3,KULeuvenX,Computer Science,Introductory,English,4947
+ Gestión del estrés y Mindfulness,4.8,9,34195,4,AnahuacX,Health & Safety,Introductory,Spanish,3276
+ Fundamentals of Market Structure,4.5,18,40557,1,NYIF,Economics & Finance,Introductory,English,2096
+ HTML5 Coding Essentials and Best Practices,4.5,12,259274,6,W3Cx,Computer Science,Intermediate,English,20878
+" Agile Process, Project, and Program Controls",4.6,27,25226,4,UMD,Engineering,Advanced,English,20916
+ Probability and Statistics in Data Science using Python,3.6,15,132325,10,UCSanDiegoX,Data Analysis & Statistics,Advanced,English,29346
+ World of Wine: From Grape to Glass,5,5,103334,6,AdelaideX,Science,Introductory,English,16685
+ MLOps for Scaling TinyML,4.6,8,5020,7,HarvardX,Computer Science,Advanced,English,25116
+ Nutrition and Healthy Living,4.4,19,,6,UCR,Food & Nutrition,Introductory,English,4947
+ Fundamentos de logística,4.9,7,22965,5,logycaX,Engineering,Introductory,Spanish,3773
+ People analytics and reporting,4.6,48,,2,StellenboschX,Business & Management,Intermediate,English,12493
+ Elevating Businesses and Careers with Generative AI,4.2,5,,3,IBM,Computer Science,Introductory,English,4108
+ Teaching Physical Computing with Raspberry Pi and Python,4.8,14,,4,RaspberryPiFoundation,Education & Teacher Training,Intermediate,English,4956
+ Let's Get Started: Building Self-Awareness,4.6,5,13935,5,UMD,Business & Management,Introductory,English,20878
+ Crisis Resource Management,4.7,34,5636,12,ColumbiaX,Health & Safety,Introductory,English,4200
+ Project Delivery Methods and Contracts in Construction Management,4.2,20,5019,4,UMD,Engineering,Intermediate,English,20878
+ International Project Management,4.3,19,55284,9,RITx,Business & Management,Advanced,English,37647
+ Critical Thinking: Fundamentals of Good Reasoning,,,15960,13,IsraelX,Philosophy & Ethics,Introductory,English,15847
+ Estrategias y estilos de negociación,,,21415,4,TecdeMonterreyX,Business & Management,Introductory,Spanish,15876
+ Statistical Inference and Modeling for High-throughput Experiments,4.4,6,64770,4,HarvardX,Data Analysis & Statistics,Intermediate,English,18362
+ Achieving Product-Market Fit,4.8,18,10838,4,UMD,Business & Management,Introductory,English,20878
+ Manejo del estrés desde la neurociencia,,,,4,URosarioX,Medicine,Introductory,Spanish,3270
+ Behavioral Economics and Public Policy,,,,6,IIMBx,Economics & Finance,Intermediate,English,15876
+ Freedom of expression in the African media and digital policy landscape,,,,4,StellenboschX,Communication,Advanced,English,8301
+ Behavioral Neuroscience: Analyzing Anxiety and Depression,,,,5,AlaskaX,Biology & Life Sciences,Intermediate,English,15847
+" Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry",4.8,5,30184,5,WageningenX,Art & Culture,Introductory,English,14170
+ Quantum Mechanics of Molecular Structures,4.5,6,26310,6,UTokyoX,Physics,Intermediate,English,4947
+ Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),,,19183,4,CatalystX,Business & Management,Introductory,Spanish,4956
+ Introduction to the Music Business,4.7,20,58926,6,BerkleeX,Business & Management,Introductory,English,4947
+ Alimentación saludable y sostenible,,,,5,JaverianaX,Food & Nutrition,Introductory,Spanish,3773
+ Fundamentos de ciberseguridad para usuarios,,,,2,UPValenciaX,Computer Science,Introductory,Spanish,1174
+ Marketing para emprendedores,,,,4,URosarioX,Business & Management,Introductory,Spanish,3276
+ Introduction to Game Design: Process and Creation,,,,5,LCIEducation,Computer Science,Introductory,English,15008
+ Arduino para niños ¡vamos al espacio!,,,17955,6,JaverianaX,Electronics,Introductory,Spanish,2096
+ IoT System Design: Software and Hardware Integration,4.2,10,16805,4,WasedaX,Computer Science,Intermediate,English,10816
+" Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms",,,5230,5,GTx,Computer Science,Intermediate,English,15847
+ Video Game Writing Essentials,4.2,19,8776,5,UBCx,Communication,Introductory,English,8301
+ Computer Architecture with an Industrial RISC-V Core [RVfpga],,,,10,LinuxFoundationX,Computer Science,Intermediate,English,12493
+ Principios de Economía aplicados a Negocios,,,8233,4,TecdeMonterreyX,Economics & Finance,Advanced,Spanish,4947
+ Real-World Applications of Economics,,,,5,BerkeleyX,Economics & Finance,Intermediate,English,8301
+ Introducción a Ciencias de Datos y Estadística Básica para Negocios,,,13408,4,TecdeMonterreyX,Data Analysis & Statistics,Advanced,Spanish,5785
+" Hollywood: History, Industry, Art",,,67599,4,PennX,Communication,Introductory,English,14170
+ Programación en Python: visualización de datos,,,,6,UPValenciaX,Data Analysis & Statistics,Intermediate,Spanish,3276
+ Physics Fundamentals: Mechanics,4.5,17,,6,UPValenciaX,Physics,Introductory,English,2432
+ Cyber Risk Supervision,4.5,29,,4,IMFx,Economics & Finance,Introductory,English,2096
+ Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,4.3,15,26569,4,UPValenciaX,Engineering,Intermediate,Spanish,3276
+ BioStatistics,,,26310,8,DoaneX,Biology & Life Sciences,Introductory,English,9978
+ Structural Materials: Selection and Economics,4.8,14,14203,3,MITx,Engineering,Introductory,English,4192
+ The Minerals and Mining Business,4.6,10,6166,8,CurtinX,Engineering,Advanced,English,36808
+ Biomedical Equipment: A Practical Approach to Healthcare Technology Management,4.6,10,,6,DelftX,Engineering,Introductory,English,4192
+ Introduction to Online Education & Course Planning,4.6,21,,3,WisconsinX,Education & Teacher Training,Introductory,English,9996
+ Bases de datos,,,5572,4,URosarioX,Engineering,Intermediate,Spanish,3270
+ Technology of Intelligent and Integrated Energy Systems,4.4,17,,6,DelftX,Engineering,Intermediate,English,12493
+ Introducción a la genética y la evolución,4.1,13,30922,3,UAMx,Biology & Life Sciences,Introductory,Spanish,2432
+ China’s Political and Intellectual Foundations: From Sage Kings to Confucius,,,56843,12,HarvardX,History,Introductory,English,12493
+ La Química Orgánica: un mundo a tu alcance,,,31016,6,UAMx,Chemistry,Introductory,Spanish,2432
+" Business Considerations for 5G with Edge, IoT, and AI",4.1,23,13111,10,LinuxFoundationX,Business & Management,Introductory,English,15847
+ Higher education teaching in the age of AI,,,,3,StellenboschX,Education & Teacher Training,Intermediate,English,12493
+ The Data Science Method,4.5,13,17351,7,IBM,Data Analysis & Statistics,Introductory,English,8301
+ Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,5,5,29765,6,UAMx,Medicine,Introductory,Spanish,2436
+ Fundamentals of Sociology,4,9,9423,8,DoaneX,Social Sciences,Introductory,English,9978
+ Bases Matemáticas: Álgebra,,,55189,4,UPValenciaX,Math,Introductory,Spanish,1593
+ Assembler Language,4.3,14,,11,DoaneX,Computer Science,Intermediate,English,20878
+ Probability and Statistics II:  Random Variables – Great Expectations to Bell Curves,,,6640,4,GTx,Data Analysis & Statistics,Intermediate,English,20916
+ Effective Communication for Program and Project Stakeholders and Teams,4.5,19,11046,5,UMD,Business & Management,Introductory,English,20878
+ Linux Basics: The Command Line Interface,,,46329,5,DartmouthX,Computer Science,Introductory,English,8301
+ Hybrid Vehicles,4.3,7,26761,7,ChalmersX,Engineering,Advanced,English,20878
+ Computing for Data Analysis,4.2,10,57803,15,GTx,Computer Science,Advanced,English,69173
+ Enterprise Selling,,,15766,6,QueensX,Business & Management,Introductory,English,15847
+ Excel financiero pro: domina las finanzas con Excel,,,,2,URosarioX,Economics & Finance,Intermediate,Spanish,4108
+ Sustainability in Architecture: An Interdisciplinary Introduction,4.1,34,49388,4,UPValenciaX,Architecture,Intermediate,English,3270
+ Teach Teens Computing: Understanding AI for Educators,,,,3,RaspberryPiFoundation,Education & Teacher Training,Introductory,English,4947
+ IT Fundamentals for Business Professionals: Enterprise Systems,4.2,17,29107,4,UPValenciaX,Computer Science,Introductory,English,5785
+" Data Structures & Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms",4.8,5,5468,5,GTx,Computer Science,Intermediate,English,15876
+ Cybersecurity Risk Management,4.5,13,44631,8,RITx,Computer Science,Advanced,English,33454
+ Databases: Semistructured Data,,,7240,2,StanfordOnline,Computer Science,Introductory,English,5785
+ Threat Intelligence in Cybersecurity,,,,6,IBM,Computer Science,Introductory,English,12493
+ Migrating to the AWS Cloud,,,7949,4,AWS,Computer Science,Intermediate,English,4956
+" MathTrackX: Polynomials, Functions and Graphs",4.3,9,12931,4,AdelaideX,Math,Introductory,English,8316
+ Model-Based Automotive Systems Engineering,,,23086,7,ChalmersX,Engineering,Advanced,English,20878
+ Herramientas para el Análisis de Big Data,4.4,13,19267,4,TecdeMonterreyX,Data Analysis & Statistics,Intermediate,Spanish,4947
+ Introducción a los circuitos eléctricos,,,19688,5,GalileoX,Electronics,Intermediate,Spanish,3270
+ Computer Vision and Image Processing Fundamentals.,4.2,12,20811,3,IBM,Computer Science,Introductory,English,8301
+ VITARA - Human Resource Management,4.8,23,,1,IMFx,Economics & Finance,Introductory,English,2100
+ AI in Healthcare. Hype or Help?,,,,10,KULeuvenX,Medicine,Advanced,English,6758
+ Build your very first iOS app,,,50726,8,CurtinX,Computer Science,Introductory,English,15876
+ The Science of Parenting,,,48443,5,UCSanDiegoX,Social Sciences,Introductory,English,4108
+ Test and Behavior Driven Development (TDD/BDD),4.2,6,,4,IBM,Computer Science,Intermediate,English,8316
+ Strategic Management Capstone,4.6,46,11383,6,Wharton,Business & Management,Intermediate,English,16685
+ Animation with JavaScript and jQuery,,,,4,UCDavis,Computer Science,Introductory,English,4116
+ The Engineering of Structures Around Us,4.7,13,22862,5,DartmouthX,Engineering,Introductory,English,6624
+ Critical Thinking: How to Develop Critical Thinking Skills,4.2,13,,1,BoxPlay,Communication,Introductory,English,5785
+ UX Prototyping,,,9123,6,HECMontrealX,Design,Intermediate,English,30996
+ 3D GIS,4.3,18,5018,4,AlaskaX,Engineering,Intermediate,English,15847
+ Molecular Biology – Part 3: RNA Processing and Translation,,,23424,8,MITx,Biology & Life Sciences,Advanced,English,8301
+ Diseña presentaciones eficaces con Powerpoint,4.4,7,55068,3,UPValenciaX,Computer Science,Introductory,Spanish,3773
+ Mathematical Methods for Data Analysis,,,,8,HKUSTx,Math,Intermediate,English,36876
+ Solid Waste Management,4.5,26,17560,6,WBGx,Environmental Studies,Introductory,English,420
+ Waste Management and Critical Raw Materials,4.2,6,18064,6,DelftX,Business & Management,Introductory,English,12493
+" Diseña, fabrica y programa tu propio robot",,,34123,6,UPValenciaX,Engineering,Introductory,Spanish,5785
+ Economics Fundamentals for Business Analytics,4.7,7,,6,LehighX,Economics & Finance,Introductory,English,15008
+ Introduction to Healthcare Communication Strategies,,,,4,StanfordOnline,Medicine,Intermediate,English,20878
+ Linux Tools for Software Development,,,5437,14,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Introducción a la Ciencia de Datos con Python,4.5,10,17773,4,AnahuacX,Computer Science,Introductory,Spanish,3270
+" Introduction to Object-Oriented Programming with Java III: Exceptions, Data Structures, Recursion, and GUIs",4.2,10,6586,6,GTx,Computer Science,Introductory,English,20878
+ Drainage in Agriculture: controlling water and salt levels in the soil,4.2,5,8638,5,WageningenX,Environmental Studies,Advanced,English,14170
+ Cybersecurity Analyst Assessment,,,,1,IBM,Computer Science,Advanced,English,12493
+ Storytelling for Social Change,4.5,23,47516,5,MichiganX,Communication,Introductory,English,4947
+ Modern Product Leadership,4.1,11,8055,4,UMD,Business & Management,Introductory,English,20916
+ Designing a Course With edX,4.5,12,,1,edX,Design,Introductory,English,8301
+ Computer Architecture,,,7156,14,HarveyMuddX,Engineering,Introductory,English,15876
+ Intro to AI for Digital Marketing,,,,3,DavidsonX,Business & Management,Introductory,English,4116
+ Academic Writing,,,,4,AdelaideX,Language,Introductory,English,10481
+ Marketing Fundamentals: Who Is Your Customer?,,,30781,4,BabsonX,Business & Management,Introductory,English,20916
+ Corrección de textos jurídicos,,,,4,URosarioX,Communication,Introductory,Spanish,3276
+ Finding your voice as a playwright,4.4,8,9408,4,UniversityofCambridge,Communication,Intermediate,English,25070
+ IT Support Case Studies,,,,6,IBM,Computer Science,Intermediate,English,8301
+ Economics: Consumer Demand,4.8,23,16012,4,BabsonX,Economics & Finance,Introductory,English,20916
+ Introduction to Pharmacokinetics: From ADME to PK/PD,,,,3,DavidsonX,Chemistry,Intermediate,English,16716
+ Designing for Textiles,4.6,17,,2,SmithsonianX,Art & Culture,Introductory,English,503
+ Shakespeare’s Othello: The Moor,5,12,40700,4,HarvardX,Humanities,Introductory,English,12493
+ Learning Success,4.8,9,6322,10,ColumbiaX,Education & Teacher Training,Introductory,English,4200
+ Relational Database Administration (DBA),4.8,5,,8,IBM,Computer Science,Introductory,English,8301
+ C++ Programming: Intermediate Concepts,,,,5,Codio,Computer Science,Introductory,English,15847
+ Beyond Systems Thinking,,,,6,ETHx,Social Sciences,Introductory,English,4192
+ Semantics of First-Order Logic,4.4,6,5795,4,StanfordOnline,Philosophy & Ethics,Introductory,English,5796
+ Terrorism and Counterterrorism,4.1,57,36391,7,GeorgetownX,Humanities,Introductory,English,4947
+ Women's Leadership: Boost your skills and drive change,4.5,38,,10,IDBx,Communication,Intermediate,English,2432
+ Math Fundamentals: Algebra,,,,4,UPValenciaX,Math,Introductory,English,2432
+ Master Control in Supply Chain Management and Logistics,4.4,39,47572,8,ChalmersX,Business & Management,Introductory,English,4116
+" A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods",4.6,24,,7,ImperialX,Math,Intermediate,English,5785
+ Stock Trading Professional Certification Examination,5,12,,1,NYIF,Economics & Finance,Introductory,English,
+ English for Doing Business in Asia – Speaking,,,75959,7,HKUSTx,Humanities,Introductory,English,14170
+ Algorithmic Design and Techniques,,,52092,6,UCSanDiegoX,Computer Science,Intermediate,English,12600
+ Retail Fundamentals,4.4,5,45594,4,DartmouthX,Business & Management,Intermediate,English,20878
+ Music Technology Foundations,4.8,6,44897,6,AdelaideX,Computer Science,Introductory,English,14170
+ Introduction to Generative AI,4,6,,3,AI,Computer Science,Introductory,English,37716
+ E-Commerce Estratégico,,,,5,AnahuacX,Business & Management,Introductory,Spanish,3270
+ Shakespeare's The Merchant of Venice: Shylock,4.4,10,30317,4,HarvardX,Humanities,Introductory,English,12516
+ Mandarin Chinese for Business,4.4,8,20020,6,MandarinX,Language,Intermediate,English,15847
+ Introduction to AI/ML Toolkits with Kubeflow,,,,10,LinuxFoundationX,Computer Science,Introductory,English,12493
+ Autism and Neurodiversity: Building Your Child's Strengths,4.4,14,6463,6,CurtinX,Health & Safety,Introductory,English,8301
+ Mulheres na liderança: potencialize suas habilidades e impulsione a mudança,,,,10,IDBx,Communication,Intermediate,Portuguese,2432
+ Fundamentals of Financial Mathematics and Capital Budgeting,4.9,8,11196,4,NYIF,Economics & Finance,Introductory,English,8316
+ Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),4.6,17,11069,4,HKUx,Medicine,Introductory,English,12493
+ Git for Distributed Software Development,,,6204,14,LinuxFoundationX,Computer Science,Introductory,English,15847
+ Le management,4.8,13,20636,5,HECMontrealX,Business & Management,Introductory,French,20916
+ Cell cultivation techniques: An introduction,4.7,7,,8,ZHAWx,Biology & Life Sciences,Intermediate,English,15847
+ Managing People with Power Skills,4.7,12,,4,UMD,Business & Management,Introductory,English,9996
+ Continuous Integration and Delivery (CI/CD),,,,5,IBM,Computer Science,Intermediate,English,8301
+" A-level Further Mathematics for Year 12 - Course 1: Complex Numbers, Matrices, Roots of Polynomial Equations and Vectors",,,,7,ImperialX,Math,Intermediate,English,5785
+ Astrophysics: The Violent Universe,4.7,14,73189,10,ANUx,Physics,Intermediate,English,4956
+ Effective Thinking Through Mathematics,,,63957,5,UTAustinX,Math,Introductory,English,11655
+ Introduction to the Natural Capital Project Approach,4.7,6,6119,4,StanfordOnline,Environmental Studies,Introductory,English,5785
+ Field Operations and Administrative Tools in Construction Management,4.9,14,,4,UMD,Engineering,Intermediate,English,20916
+ Ruralization: Creating New Opportunities in Rural Areas,4.1,30,,6,DelftX,Social Sciences,Introductory,English,11655
+ Teach kids computing: Computing Systems and Networks,,,,3,RaspberryPiFoundation,Education & Teacher Training,Introductory,English,4108
+ ¿Cómo planificar viviendas verdes y resilientes?,4.6,5,,1,IDBx,Environmental Studies,Introductory,Spanish,838
+ Salud mental del adolescente en cuidado primario,4.6,5,7074,5,JaverianaX,Medicine,Introductory,Spanish,3780
+ SQL Concepts for Data Engineers,,,,1,IBM,Data Analysis & Statistics,Intermediate,English,8301
+ Data Analytics and Visualization in Health Care,4.5,9,14229,8,RITx,Data Analysis & Statistics,Advanced,English,20878
+ Mathematical Optimization for Engineers,4.3,9,6823,8,RWTHx,Engineering,Intermediate,English,8316
+ Células y tejidos,,,,6,UPValenciaX,Biology & Life Sciences,Introductory,Spanish,4116
+ Supply Chains for Manufacturing: Capacity Analytics,5,5,14334,9,MITx,Engineering,Advanced,English,14700
+ Vocal Recording Technology,4.6,6,62006,6,BerkleeX,Engineering,Introductory,English,4947
+ IT Fundamentals for Business Professionals: Hardware,4.6,7,18319,4,UPValenciaX,Computer Science,Introductory,English,5796
+ Statistics,,,,3,DelftX,Math,Intermediate,English,12493
+ Genetics: Population Genetics and Human Traits,4.6,5,,5,MITx,Biology & Life Sciences,Advanced,English,8301
+ Gestión de inventario y portafolio,,,12908,5,logycaX,Engineering,Introductory,Spanish,1596
+ Psychological Influences on Decision Making,5,9,,8,APA,Social Sciences,Introductory,English,10816
+ Google Cloud Computing Foundations: Networking and Security in Google Cloud,4.8,5,,1,GoogleCloud,Computer Science,Introductory,English,12493
+ Sprint Planning for Faster Agile Team Delivery,4.3,26,18824,4,UMD,Engineering,Advanced,English,20916
+ Digital Commerce Reinventing Business Models,4.1,19,,4,TecdeMonterreyX,Business & Management,Intermediate,English,20916
+" Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity",,,37192,6,MITx,Art & Culture,Introductory,English,5366
+" Music, Art, Society, and Self",,,,4,WisconsinX,Art & Culture,Introductory,English,6636
+ ¿Cómo hacer uso responsable de la inteligencia artificial?,4.6,15,8054,10,IDBx,Ethics,Intermediate,Spanish,2432
+ Introduction to Generative AI for Executives and Business Leaders,4.7,7,,1,IBM,Business & Management,Introductory,English,4116
+ Teach teens computing: Object-oriented Programming in Python,,,,4,RaspberryPiFoundation,Education & Teacher Training,Advanced,English,4947
+ Writing successfully for the Stage,4.8,5,14577,4,UniversityofCambridge,Communication,Intermediate,English,25116
+ Exploring GraphQL: A Query Language for APIs,,,35959,7,LinuxFoundationX,Computer Science,Introductory,English,15876
+ Lean Six Sigma Green Belt Business Project,,,,20,TUMx,Business & Management,Intermediate,English,218400
+ UX Research,4.3,11,14051,6,HECMontrealX,Social Sciences,Intermediate,English,30939
+ Big Data Analytics,,,51237,10,AdelaideX,Computer Science,Intermediate,English,16716
+ Consumer Behaviour,,,10640,6,IIMBx,Business & Management,Introductory,English,12493
+ Gestión de riesgos en proyectos de desarrollo,4.7,34,60816,10,IDBx,Business & Management,Intermediate,Spanish,2096
+ Qualitative Research in Psychology,4.5,6,,8,APA,Social Sciences,Intermediate,English,10836
+" Secure Software Development: Requirements, Design, and Reuse",,,6037,7,LinuxFoundationX,Computer Science,Introductory,English,20916
+ Sikhism Through Its Scriptures,4.8,10,52350,4,HarvardX,Humanities,Introductory,English,12516
+ Introduction to Istio,,,,10,LinuxFoundationX,Computer Science,Intermediate,English,15847
+ Understanding Nuclear Energy,4.5,8,21286,6,DelftX,Engineering,Intermediate,English,11676
+ Content Marketing Strategy,,,,4,State-Bank-of-India,Business & Management,Introductory,English,8316
+ The Hardware of a Quantum Computer,4.5,8,28391,6,DelftX,Physics,Intermediate,English,12516
+ Grabar y mezclar música,,,23043,4,BerkleeX,Music,Introductory,Spanish,4956
+ Introduction to Databases and SQL,3.4,6,,3,RaspberryPiFoundation,Education & Teacher Training,Intermediate,English,4947
+ Big Data sin misterios,4.6,17,73862,10,IDBx,Data Analysis & Statistics,Intermediate,Spanish,2096
+ Image Processing and Analysis for Life Scientists,4.3,6,14693,7,EPFLx,Data Analysis & Statistics,Intermediate,English,20878
+ Mandarin Chinese Level 2,5,7,14969,6,MandarinX,Language,Introductory,English,15876
+ Japanese Books: From Manuscript to Print,5,5,28948,9,HarvardX,Art & Culture,Introductory,English,12516
+ Leadership and Management for PM Practitioners in IT,4.8,16,27820,6,UWashingtonX,Business & Management,Introductory,English,20878
+ A strategic approach to talent management,4.7,71,,2,StellenboschX,Business & Management,Intermediate,English,12493
+ Educación emocional para el bienestar personal,,,7819,5,URosarioX,Health & Safety,Introductory,Spanish,3270
+ European Union Law,4.7,9,,11,KULeuvenX,Law,Introductory,English,4947
+ Noongar Language and Culture,5,8,18496,6,CurtinX,Language,Introductory,English,15036
+ Quantitative Marketing Research,,,10989,5,IIMBx,Business & Management,Introductory,English,15847
+ Fundamentos de fotografía documental,,,20822,6,URosarioX,Art & Culture,Introductory,Spanish,1593
+ Quantitative Research Methods,,,,8,APA,Social Sciences,Introductory,English,10816
+ Planning for Risk and Retirement,4.1,9,,4,IUx,Economics & Finance,Introductory,English,16716
+ Implant Dentistry,4.6,8,11656,5,HKUx,Medicine,Introductory,English,12516
+ An Introduction to Computer Networking for Teachers,4.7,13,,3,RaspberryPiFoundation,Education & Teacher Training,Intermediate,English,4956
+ We the People: Civic Engagement in a Constitutional Democracy,5,7,9241,7,HarvardX,Social Sciences,Introductory,English,12516
+ Cannabis Cultivation and Processing,4.1,7,20330,3,DoaneX,Environmental Studies,Introductory,English,18362
+ Revenue Forecasting and Analysis,4.5,20,7597,8,IMFx,Economics & Finance,Intermediate,English,2100
+" Introducción al griego clásico: lengua, nombres y mitología",3.8,5,30025,5,UAMx,Language,Introductory,Spanish,2436
+ Arquitectura latinoamericana contemporánea,4.8,5,,4,URosarioX,Architecture,Introductory,Spanish,3270
+" Lean Six Sigma Black Belt Certification Part 1: Basic Improvement, Define and Measure",4.4,32,,8,JuranX,Business & Management,Intermediate,English,10481
+" Unix Tools: Data, Software and Production Engineering",,,7096,6,DelftX,Computer Science,Intermediate,English,4200
+ Working in Teams: A Practical Guide,4.5,6,50417,4,UQx,Humanities,Introductory,English,10816
+ Introduction to Connected Strategy,4.7,36,22376,6,Wharton,Business & Management,Intermediate,English,16685
+ Circular Economy: An Interdisciplinary Approach,4.5,11,19745,6,WageningenX,Environmental Studies,Advanced,English,12493
+ PM4R Agile: mentalidad ágil en proyectos de desarrollo,4.7,55,9545,10,IDBx,Business & Management,Intermediate,Spanish,1593
+ Online Marketing Strategies,,,70907,12,CurtinX,Communication,Advanced,English,16716
+ Technical Analysis and the Skill of Day Trading,4.2,19,,4,NYIF,Economics & Finance,Introductory,English,
+ Bridging Differences,5,9,10088,8,BerkeleyX,Social Sciences,Introductory,English,14170
+ Strategic Account Management,4.2,10,14286,6,QueensX,Business & Management,Introductory,English,15876
+ Introducción al Derecho Internacional Público,4.4,7,7018,4,AnahuacX,Law,Introductory,Spanish,3270
+ On-Ramp to AP* Physics C: Mechanics,,,17398,2,WestonHS,Physics,Introductory,English,2436
+ Micro and Nanofabrication (MEMS),4,6,21492,7,EPFLx,Engineering,Advanced,English,20878
+ Worldviews - From Sustainability to Regeneration,4.7,7,,12,ETHx,Philosophy & Ethics,Introductory,English,4200
+" Mathematics 1 Part 2: Integral calculus, algebra, and applications",4.5,6,,5,LSE,Math,Intermediate,English,16702
+ El poder de la comunicación consciente,,,,4,URosarioX,Communication,Introductory,Spanish,3270
+ Storytelling and Persuading using Data and Digital Technologies,4.2,5,10007,4,UMD,Data Analysis & Statistics,Introductory,English,20878
+ Recruiting and Selecting the Right Person,4.2,28,5660,6,UCx,Business & Management,Advanced,English,14170
+ Lifestyle Medicine Treatments of Chronic Disease – Part 1,4.6,21,11534,2,DoaneX,Medicine,Intermediate,English,18396
+ Leer y escribir en la universidad,,,,1,URosarioX,Communication,Introductory,Spanish,3270
+ Linear Algebra III: Determinants and Eigenvalues,4.5,13,5986,3,GTx,Math,Intermediate,English,20878
+ Steps in Japanese for Beginners1 Part2,,,15991,5,WasedaX,Language,Introductory,English,10816
+" Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",,,17115,7,EPFLx,Engineering,Advanced,English,17524
+ Animal Behaviour in Conservation,4.8,6,,5,WageningenX,Biology & Life Sciences,Introductory,English,14170
+ Building Your Career in Music: Developing a Brand and Funding,,,,1,BerkleeX,Music,Introductory,English,4947
+ Digitalization of Intelligent and Integrated Energy Systems,4.1,8,,6,DelftX,Engineering,Introductory,English,12493
+ Services Marketing: Concepts & Applications,,,,6,IIMBx,Business & Management,Introductory,English,15847
+ Introduction to Cilium,,,,10,LinuxFoundationX,Computer Science,Introductory,English,12493
+ ?????? | Intermediate Chinese Grammar,,,27293,12,PekingX,Humanities,Intermediate,Chinese,4947
+ Let’s Get Personal: Working with Personality Type,4,14,11253,6,UMD,Business & Management,Introductory,English,20916
+ Introducción a la programación en C: Tipos de datos y estructuras,,,23950,5,UAMx,Computer Science,Introductory,Spanish,2432
+ Mentalidad Emprendedora,,,19259,4,TecdeMonterreyX,Business & Management,Advanced,Spanish,9978
+ Psychology of Personal Growth,3.6,5,67355,6,HKUSTx,Social Sciences,Introductory,English,4947
+ Communication Skills for Dialoguing Across Difference,4.7,20,68791,1,CatalystX,Communication,Introductory,English,4956
+ 18th-Century Opera: Handel & Mozart,4.9,7,28394,5,HarvardX,Music,Introductory,English,17524
+ Financial Soundness Indicators,4.8,9,,5,IMFx,Economics & Finance,Intermediate,English,2096
+ A System View of Communications: From Signals to Packets (Part 1),,,36164,7,HKUSTx,Computer Science,Introductory,English,6636
+ Probabilidad y estadística,,,,4,URosarioX,Math,Intermediate,Spanish,3270
+ Comunicación efectiva en inglés jurídico,,,,4,URosarioX,Communication,Intermediate,English,3270
+ Leadership and organizational behavior,4.7,7,9591,4,TecdeMonterreyX,Business & Management,Intermediate,Spanish,15847
+ Negotiation Skills and Effective Communication,4.7,9,14932,4,TecdeMonterreyX,Business & Management,Intermediate,Spanish,15847
+ DevOps and Software Engineering Capstone Project,,,,5,IBM,Computer Science,Intermediate,English,4108
+ Probability and Statistics III:  A Gentle Introduction to Statistics,,,6368,4,GTx,Data Analysis & Statistics,Intermediate,English,20916
+ Energy Demand in Buildings,4.1,14,10348,5,DelftX,Architecture,Introductory,English,11655
+ Análisis del riesgo de desastres y cambio climático en proyectos de infraestructura,4.8,21,10315,10,IDBx,Engineering,Advanced,Spanish,2096
+ Managing Personal Cash and Credit,,,,4,IUx,Economics & Finance,Introductory,English,16685
+ Producción musical y su efecto en la composición,,,15781,6,BerkleeX,Music,Introductory,Spanish,4947
+ Genetic Models for Animal Breeding,4.4,9,17714,6,WageningenX,Biology & Life Sciences,Intermediate,English,15847
+ Theatre and set design,3.4,10,5589,10,FedericaX,Architecture,Introductory,English,4612
+ Energy to Electrochemistry Final Exam,,,,4,HarvardX,Chemistry,Introductory,English,42000
+ IT Fundamentals for Business Professionals: Cybersecurity and social implications,,,13075,3,UPValenciaX,Computer Science,Introductory,English,5785
+ 'Talk to me': Improving mental health and suicide prevention in young adults,4.6,8,22760,6,CurtinX,Health & Safety,Introductory,English,12493
+ E-commerce logistics and Last Mile,4.4,19,7629,5,logycaX,Business & Management,Introductory,English,1593
+ Formulación y nomenclatura de compuestos químicos,,,19710,6,UPValenciaX,Chemistry,Introductory,Spanish,1593
+ Introduction à l'Analyse du Cycle de Vie - de la pensée à la pratique,,,5212,7,EPFLx,Engineering,Introductory,French,14196
+ Storytelling: comunica tus ideas con impacto,,,,4,URosarioX,Communication,Introductory,Spanish,4108
+ Astrophysics: Exploring Exoplanets,4.7,19,54363,9,ANUx,Physics,Intermediate,English,4947
+ An Introduction to Credit Risk Management,4.4,7,60989,7,DelftX,Business & Management,Intermediate,English,16685
+ Fixed Income Portfolio Management,3.7,6,,4,NYIF,Economics & Finance,Advanced,English,16685
+ Risk Management in Development Projects,4.5,41,20382,10,IDBx,Business & Management,Intermediate,English,2100
+ Becoming a People Manager: Taking Charge with Care,4.8,15,,4,IUx,Business & Management,Introductory,English,16685
+ Transmisión de energía eléctrica,4.4,5,8994,7,TecdeMonterreyX,Science,Intermediate,Spanish,4947
+ Copyright Law in the Music Business,4.3,11,,4,BerkleeX,Business & Management,Introductory,English,4956
+ Introduction to Transforming with Data Analytics and the Digital Organization,,,,4,UMD,Data Analysis & Statistics,Introductory,English,20878
+ Macroeconomics - The Basics,4.1,14,11509,8,DoaneX,Economics & Finance,Introductory,English,9978
+ Sustainable Aviation: The Route to Climate-Neutral Aviation,4.3,20,6440,6,DelftX,Engineering,Introductory,English,4200
+ Machine Dynamics with MATLAB,,,18484,7,RWTHx,Engineering,Intermediate,English,10816
+ Climate Solutions,4.6,22,5327,5,EdinburghX,Environmental Studies,Introductory,English,4956
+ Cálculo Diferencial,,,30147,8,GalileoX,Computer Science,Intermediate,Spanish,1593
+ Datos para la efectividad de las políticas públicas,4.6,37,90424,10,IDBx,Data Analysis & Statistics,Introductory,Spanish,2096
+ La gestion des conflits,4.6,11,10355,7,HECMontrealX,Business & Management,Introductory,French,20878
+ Balance of Payments and International Investment Position Statistics,4.5,6,5398,8,IMFx,Economics & Finance,Intermediate,English,2096
+ Instructional Design Models,4.6,39,22313,8,UMGC,Education & Teacher Training,Intermediate,English,25070
+ MLOps1 (Azure): Deploying AI & ML Models in Production using Microsoft Azure Machine Learning,4.6,6,,4,Statistics.comX,Computer Science,Intermediate,English,20039
+ Plant Based Diets: Food for a Sustainable Future,4.7,9,9260,7,WageningenX,Food & Nutrition,Intermediate,English,14170
+ Sport Analytics: Data Driven Decision Making,3.8,5,,4,AlaskaX,Business & Management,Introductory,English,19201
+ Lean Six Sigma: Green Belt Sustainability Project,,,,20,TUMx,Business & Management,Intermediate,English,67116
+ Linear Algebra II: Matrices and Linear Transformations,3.2,5,,6,DelftX,Math,Intermediate,English,12493
+ Catalytic Conversions for Biobased Chemicals and Products,3.8,12,7670,5,WageningenX,Chemistry,Advanced,English,15847
+ Protecting Children in Humanitarian Settings,4.8,12,14082,12,ColumbiaX,Social Sciences,Intermediate,English,4192
+ Preventing and Responding to Sexual Harassment and Violence,5,6,,6,JesusCollege,Social Sciences,Introductory,English,4108
+" Algorithms: Design and Analysis, Part 2",,,11225,6,StanfordOnline,Computer Science,Intermediate,English,12493
+ Excel: Creación de un panel gráfico de control empresarial,,,,3,UPValenciaX,Business & Management,Intermediate,Spanish,1593
+ Data Analysis for the Behavioral Sciences,4.7,7,,8,APA,Data Analysis & Statistics,Introductory,English,10836
+ Introducción a la programación en C: Funciones y punteros,,,11304,5,UAMx,Computer Science,Introductory,Spanish,2432
+ Career Networking: Build a Social Media Presence,,,,4,IUx,Communication,Introductory,English,8301
+ Financial Analysis of Insurance Companies – Industry Overview and Analysis of Financial and Regulatory Reporting,4.4,10,,3,NYIF,Economics & Finance,Advanced,English,16685
+ C Programming: Advanced Data Types,4.6,5,23452,5,DartmouthX,Computer Science,Intermediate,English,8316
+ Criptoactivos y finanzas digitales,,,,6,JaverianaX,Computer Science,Introductory,Spanish,3780
+ Introducción a R,4.5,12,17874,4,AnahuacX,Data Analysis & Statistics,Introductory,Spanish,3276
+ Unlocking Your Employability,4.7,7,52807,7,UQx,Humanities,Introductory,English,10836
+ Introduction to Hyperledger Blockchain Technologies,4.4,15,151754,10,LinuxFoundationX,Business & Management,Introductory,English,15847
+ Data Engineering with Databricks,,,,3,AI,Computer Science,Introductory,English,20878
+ Hands-on with AWS: Software Development Practices,4.8,11,,2,AWS,Computer Science,Introductory,English,9978
+ Bases Matemáticas: Números y terminología,4.8,7,38863,4,UPValenciaX,Math,Intermediate,Spanish,1593
+ Deep Learning through Transformative Pedagogy,,,,4,microsoftedu,Education & Teacher Training,Intermediate,English,15876
+ Best Practices for Project Management Success,4.6,9,55022,11,RITx,Business & Management,Intermediate,English,37716
+ The Human Microbiome,4.6,14,,3,EIT_Food,Food & Nutrition,Intermediate,English,8301
+ Classroom Strategies for Inquiry-Based Learning,4.6,5,26482,4,UTAustinX,Education & Teacher Training,Introductory,English,12493
+ Electric and Conventional Vehicles,5,5,30911,7,ChalmersX,Engineering,Advanced,English,20916
+" ChinaX Book Club: Five Authors, Five Books, Five Views of China",,,12433,5,HarvardX,Literature,Introductory,English,12516
+ Housing and Cities,4.5,24,14594,10,EPFLx,Architecture,Intermediate,English,15008
+ Circular Economy for a Sustainable Built Environment,4.9,12,16805,6,DelftX,Architecture,Intermediate,English,4192
+ Psychologie de la négociation,5,6,59026,10,LouvainX,Business & Management,Intermediate,French,12493
+ Introduction to Designing Data Lakes on AWS,3.9,9,,5,AWS,Data Analysis & Statistics,Intermediate,English,17524
+ La maladie d’Alzheimer : comprendre pour mieux aider,4.6,11,,6,SorbonneX,Medicine,Introductory,French,4956
+ System Design for Supply Chain Management and Logistics,4.4,11,26000,8,ChalmersX,Business & Management,Introductory,English,4116
+ Advanced Bioconductor,,,31815,4,HarvardX,Data Analysis & Statistics,Advanced,English,18362
+ Evaluating Impact in Low- and Middle-Income Countries,4.6,30,,24,WBGx,Economics & Finance,Introductory,English,420
+ Leading Change: Go Beyond Gamification with Gameful Learning,4.5,5,18787,8,microsoftedu,Education & Teacher Training,Introductory,English,4947
+ Financing Innovative Ventures,4.7,13,6585,4,UMD,Business & Management,Introductory,English,15847
+ Fundamentals of Cariology,,,,4,HKUx,Medicine,Intermediate,English,8316
+ Sustainable Tourism: Society & Environmental Aspects,,,17815,6,WageningenX,Philosophy & Ethics,Introductory,English,20878
+ Rust Fundamentals,,,,4,AI,Computer Science,Introductory,English,3779916
+" A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing",,,,7,ImperialX,Math,Intermediate,English,4947
+ Introduction to Machine Learning for Finance,,,,4,State-Bank-of-India,Data Analysis & Statistics,Introductory,English,15847
+ VITARA - Audit,,,,1,IMFx,Economics & Finance,Intermediate,English,2096
+ Data for Effective Policy Making,4.7,33,21259,10,IDBx,Data Analysis & Statistics,Introductory,English,2100
+ Sports Injury Prevention,4.2,6,,6,WasedaX,Health & Safety,Intermediate,English,5785
+ Introduction to IBM z/OS Mainframe,,,,3,IBM,Computer Science,Introductory,English,8301
+ Be a Better Learner Using Psychology,4.9,7,,8,APA,Social Sciences,Introductory,English,10816
+ Teaching Teamwork & Communication Skills,,,,3,WisconsinX,Education & Teacher Training,Intermediate,English,9978
+ Introducción a la Inteligencia Artificial: Principales Algoritmos,4.2,5,15055,4,GalileoX,Computer Science,Introductory,Spanish,1593
+ Cybersecurity and Privacy in the IoT,,,26099,5,CurtinX,Computer Science,Introductory,English,16685
+" State, Law and the Economy I",4.8,5,6201,5,HKUx,Economics & Finance,Intermediate,English,4200
+ Electromagnetic Compatibility Essentials,4.9,9,,4,TUGrazX,Electronics,Intermediate,English,10816
